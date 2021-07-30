@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Всичките %1$d приложения</item>
+        <item quantity="one">1 приложение</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Избрани са %1$d приложения</item>
+        <item quantity="one">Избрано е 1 приложение</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d приложения са налице за възстановяване. Изберете няколко или възстановете всички.</item>
+        <item quantity="one">%1$d приложение е налице за възстановяване</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d контакта от устройството</item>
+        <item quantity="one">1 контакт от устройството</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d контакта от устройството и SIM картата</item>
+        <item quantity="one">%1$d контакт от устройството и SIM картата</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d контакта от SIM картата</item>
+        <item quantity="one">1 контакт от SIM картата</item>
+    </plurals>
+</resources>

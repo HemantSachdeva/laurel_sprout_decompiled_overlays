@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: jOjIODX8PP1fZ0m63cZ+r+b6Ld9/02ObK019xBdjQtE=
+
+Name: res/drawable/ic_wifi_settings.xml
+SHA-256-Digest: szc1/CI/9jDmLHWOf52BcpNb9Sdx+5jQRf2ajp8ZnV0=
+
+Name: res/layout/wifi_p2p_dialog.xml
+SHA-256-Digest: amAvW9oypcEQo8jzUbNYUW6N0mhLqri21KF/7wLksGY=
+
+Name: resources.arsc
+SHA-256-Digest: 5DfWOdKZfFd4LymzKKLOLIzXIrO0FyZUpj7fvvnn4Lw=
+
+Name: res/drawable/stat_notify_wifi_in_range.xml
+SHA-256-Digest: wD/zI6SBSG2AqnyqIHd07kSRhv/evCykVugfNy7esW0=
+
+Name: res/layout/wifi_p2p_dialog_row.xml
+SHA-256-Digest: yl7Cu4ksYCXf27CtQmDP6zoX4bluPpAo6W9aKm5QAjA=
+

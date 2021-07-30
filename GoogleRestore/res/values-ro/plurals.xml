@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Toate cele %1$d de aplicații</item>
+        <item quantity="one">1 aplicație</item>
+        <item quantity="few">Toate cele %1$d aplicații</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d de aplicații selectate</item>
+        <item quantity="one">1 aplicație selectată</item>
+        <item quantity="few">%1$d aplicații selectate</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d de aplicații disponibile pentru restabilire. Alegeți câteva sau restabiliți-le pe toate.</item>
+        <item quantity="one">%1$d aplicație disponibilă pentru restabilire</item>
+        <item quantity="few">%1$d aplicații disponibile pentru restabilire. Alegeți câteva sau restabiliți-le pe toate.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d de persoane de contact pe dispozitiv</item>
+        <item quantity="one">O persoană de contact pe dispozitiv</item>
+        <item quantity="few">%1$d persoane de contact pe dispozitiv</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d de persoane de contact pe dispozitiv și pe SIM</item>
+        <item quantity="one">%1$d persoană de contact pe dispozitiv și pe SIM</item>
+        <item quantity="few">%1$d persoane de contact pe dispozitiv și pe SIM</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d de persoane de contact pe SIM</item>
+        <item quantity="one">O persoană de contact pe SIM</item>
+        <item quantity="few">%1$d persoane de contact pe SIM</item>
+    </plurals>
+</resources>

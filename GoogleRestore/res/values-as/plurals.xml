@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$dটা এপৰ গোটেইকেইটা</item>
+        <item quantity="one">%1$dটা এপৰ গোটেইকেইটা</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$dটা এপ্ বাছনি কৰা হ’ল</item>
+        <item quantity="one">%1$dটা এপ্ বাছনি কৰা হ’ল</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">পুনঃস্থাপন কৰিবলৈ %1$dটা এপ্‌ উপলব্ধ। কেইটামান বাছনি কৰক অথবা সকলো আনক।</item>
+        <item quantity="one">পুনঃস্থাপন কৰিবলৈ %1$dটা এপ্‌ উপলব্ধ। কেইটামান বাছনি কৰক অথবা সকলো আনক।</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$dটা ডিভাইচত থকা সম্পর্ক</item>
+        <item quantity="one">%1$dটা ডিভাইচত থকা সম্পর্ক</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$dটা ডিভাইচ আৰু ছিমৰ সম্পর্ক</item>
+        <item quantity="one">%1$dটা ডিভাইচ আৰু ছিমৰ সম্পর্ক</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$dটা ছিমত থকা সম্পর্ক</item>
+        <item quantity="one">%1$dটা ছিমত থকা সম্পর্ক</item>
+    </plurals>
+</resources>

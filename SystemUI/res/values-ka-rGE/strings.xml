@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">თქვენი თითის ანაბეჭდი ახლა გააქტიურებულია, გამოიყენეთ მოწყობილობის განსაბლოკად ან შეიყვანეთ პაროლი.</string>
+    <string name="fingerprint_enter_second_psw_msg">შეიყვანეთ მეორე სივრცის პაროლი მოწყობილობის გადატვირთვის შემდეგ, რათა გამოიყენოთ თითის ანაბეჭდის სენსორი</string>
+    <string name="fingerprint_enter_second_psw_title">შეიყვანეთ მეორე სივრცის პაროლი</string>
+    <string name="fingerprint_not_identified_msg">მეტისმეტი წარუმატებელი მცდელობა. შეიყვანეთ პაროლი ახლა ან გამოიყენეთ თითის ანაბეჭდი რამდენიმე წამში.</string>
+    <string name="fingerprint_not_identified_msg_lock">მეტისმეტად ბევრი წარუმატებელი მცდელობაა. ახლა შეიყვანეთ პაროლი.</string>
+    <string name="fingerprint_not_identified_title">შეიყვანეთ პაროლი</string>
+    <string name="fingerprint_try_again_msg">თითის ანაბეჭდის დადასტურება ვერ მოხერხდა. კიდევ სცადეთ.</string>
+    <string name="fingerprint_try_again_text">კიდევ სცადეთ</string>
+    <string name="fpod_fingerprint_not_recognized">განბლოკვა ვერ ხერხდება. კიდევ სცადეთ.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">ცოტა უფრო მეტად დააჭირეთ</string>
+    <string name="fpod_try_again">კიდევ სცადეთ</string>
+    <string name="input_password_after_72_hours_timeout_msg">თქვენ არ გამოგიყენებიათ თქვენი პაროლი 72 საათია. შეიყვანეთ თქვენი პაროლი.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">ზარის დროს გადასვლა სივრცეებს შორის ვერ ხერხდება</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">თქვენ არ გამოგიყენებიათ თქვენი პაროლი 72 საათია. შეიყვანეთ თქვენი პაროლი.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">თქვენ არ გამოგიყენებიათ თქვენი პაროლი 72 საათია. შეიყვანეთ თქვენი PIN.</string>
+    <string name="kg_face_unlock_liveness">სახის ამოცნობა ვერ მოხერხდა</string>
+    <string name="kg_face_unlock_not_found">სახის ამოცნობა ვერ მოხერხდა</string>
+    <string name="kg_face_unlock_not_matching">თქვენი ამოცნობა ვერ მოხერხდა</string>
+    <string name="kg_face_unlock_open_eyes">გახილეთ თვალები</string>
+</resources>

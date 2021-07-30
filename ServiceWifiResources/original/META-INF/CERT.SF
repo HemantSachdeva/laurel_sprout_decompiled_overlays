@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: sZzzeIw+62TziV2XfSj+wP46OhRARPhk1rICkiytqiY=
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: iJashP7d3Avwb33sT/aPofR2Ba8v8r75xF3KOhaGLbc=
+
+Name: res/drawable/ic_wifi_settings.xml
+SHA-256-Digest: fhgyEEGAy5a2LIec4H0IXmn5i/5YwIFNStysuEhkreM=
+
+Name: res/layout/wifi_p2p_dialog.xml
+SHA-256-Digest: DgIb/dNOhwaY8Z3GrF/+tViRVmYWLKQnbn/O9YyZw+Q=
+
+Name: resources.arsc
+SHA-256-Digest: 2480rMcY/hblhYqHYHDc9hMpYVm1meqmXR3duuYafEk=
+
+Name: res/drawable/stat_notify_wifi_in_range.xml
+SHA-256-Digest: 7pUN1z3QO7N3Zg39m87MSmhxpQSQTOSM00jEAT4r4n8=
+
+Name: res/layout/wifi_p2p_dialog_row.xml
+SHA-256-Digest: 5u+C2n7WffhNrYbQjuEz5rxcnM5EAWmFeAEaYsAAO8c=
+

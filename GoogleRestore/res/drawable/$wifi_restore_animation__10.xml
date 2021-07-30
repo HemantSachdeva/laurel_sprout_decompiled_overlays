@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__0" android:duration="794" android:startOffset="0" android:valueFrom="3.5" android:valueTo="3.5" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__1" android:duration="794" android:startOffset="0" android:valueFrom="3.5" android:valueTo="3.5" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__2" android:duration="386" android:startOffset="794" android:valueFrom="3.5" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__3" android:duration="386" android:startOffset="794" android:valueFrom="3.5" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__4" android:duration="1296" android:startOffset="1180" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__5" android:duration="1296" android:startOffset="1180" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__6" android:duration="386" android:startOffset="2475" android:valueFrom="0" android:valueTo="3.5" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$wifi_restore_animation__10__7" android:duration="386" android:startOffset="2475" android:valueFrom="0" android:valueTo="3.5" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

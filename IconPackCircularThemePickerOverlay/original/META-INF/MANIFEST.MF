@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+
+Name: res/drawable/ic_close_24px.xml
+SHA-256-Digest: XXOLHn4nmMDbmpsMSPzYc1ElpVijYqs8ZA0bOLW5ONU=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: bvUfVa6AK5C4Byw7c3ZqAj2jeFYe+bsp9QdxpUsPAOg=
+
+Name: res/drawable/ic_nav_wallpaper.xml
+SHA-256-Digest: PZ2sQG5WKzTsOSa0TZqBoIQCoZA08NzMtXq2mSeHVUQ=
+
+Name: res/drawable/ic_add_24px.xml
+SHA-256-Digest: tIyUYkJjvrpalmr0MtqrBcbbY4LUtC5kAhrU/8aP+6o=
+
+Name: res/drawable/ic_nav_grid.xml
+SHA-256-Digest: sqzQKYacfoua3vo9jzn0RlysUBDYKuVgjmJIp08fKvI=
+
+Name: res/drawable/ic_wifi_24px.xml
+SHA-256-Digest: FhHtxP6hf4Ym82L0jMfc1De2pMSwtiJsPzPhdhKcMIg=
+
+Name: res/drawable/ic_font.xml
+SHA-256-Digest: HgPOsV/7CaNL63MXGnm1yXVoinotnImIiynTEBl7xSg=
+
+Name: res/drawable/ic_delete_24px.xml
+SHA-256-Digest: GmXFTCS2UwzzLQE2R8OLHrvOLXYhRphGYcgumiahyTw=
+
+Name: res/drawable/ic_nav_theme.xml
+SHA-256-Digest: ab0+KblA5PXdkBh8ttpOIKoY15U6qFbrcW0Bx4Ku7ac=
+
+Name: res/drawable/ic_colorize_24px.xml
+SHA-256-Digest: i9ViaTxIMlE4P0m7jdiBajoq2QVDuaGz8xZLDWwlqiA=
+
+Name: res/drawable/ic_nav_clock.xml
+SHA-256-Digest: LnPnzkLLFx6206UZsSwopESy92qHBrhp3968htpYg7c=
+
+Name: resources.arsc
+SHA-256-Digest: tkEgieK8P4G8SEro4+sP+4jcJvvGIxUW4GsFfyZjkA0=
+
+Name: res/drawable/ic_shapes_24px.xml
+SHA-256-Digest: DQQojV4CTfm+dtEZz/PXFB5uPilRChX9A4fi7H2knVY=
+
+Name: res/drawable/ic_tune.xml
+SHA-256-Digest: Uydd9AgorsR52m1cKYgW+Y5m4RfEuRKWO5jayb/4qxY=
+

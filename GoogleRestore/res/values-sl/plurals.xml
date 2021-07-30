@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Vseh %1$d aplikacij</item>
+        <item quantity="one">Vsa %1$d aplikacija</item>
+        <item quantity="two">Vsi %1$d aplikaciji</item>
+        <item quantity="few">Vse %1$d aplikacije</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Izbranih je %1$d aplikacij</item>
+        <item quantity="one">Izbrana je %1$d aplikacija</item>
+        <item quantity="two">Izbrani sta %1$d aplikaciji</item>
+        <item quantity="few">Izbrane so %1$d aplikacije</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d aplikacij je na voljo za obnovitev. Izberite jih nekaj ali prenesite vse.</item>
+        <item quantity="one">%1$d aplikacija je na voljo za obnovitev. Izberite jih nekaj ali prenesite vse.</item>
+        <item quantity="two">%1$d aplikaciji sta na voljo za obnovitev. Izberite jih nekaj ali prenesite vse.</item>
+        <item quantity="few">%1$d aplikacije so na voljo za obnovitev. Izberite jih nekaj ali prenesite vse.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d stikov v napravi</item>
+        <item quantity="one">%1$d stik v napravi</item>
+        <item quantity="two">%1$d stika v napravi</item>
+        <item quantity="few">%1$d stiki v napravi</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d stikov v napravi in na kartici SIM</item>
+        <item quantity="one">%1$d stik v napravi in na kartici SIM</item>
+        <item quantity="two">%1$d stika v napravi in na kartici SIM</item>
+        <item quantity="few">%1$d stiki v napravi in na kartici SIM</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d stikov na kartici SIM</item>
+        <item quantity="one">%1$d stik na kartici SIM</item>
+        <item quantity="two">%1$d stika na kartici SIM</item>
+        <item quantity="few">%1$d stiki na kartici SIM</item>
+    </plurals>
+</resources>

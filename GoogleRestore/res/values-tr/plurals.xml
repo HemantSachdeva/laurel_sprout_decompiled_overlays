@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d uygulamanın tümü</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d uygulama seçildi</item>
+        <item quantity="one">1 uygulama seçildi</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d uygulama geri yüklenebilir. Birkaçını seçin veya tümünü alın.</item>
+        <item quantity="one">%1$d uygulama geri yüklenebilir.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d cihaz kişisi</item>
+        <item quantity="one">1 cihaz kişisi</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">"Cihazda ve SIM'de kayıtlı %1$d kişi"</item>
+        <item quantity="one">"Cihazda ve SIM'de kayıtlı %1$d kişi"</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM kişisi</item>
+        <item quantity="one">1 SIM kişisi</item>
+    </plurals>
+</resources>

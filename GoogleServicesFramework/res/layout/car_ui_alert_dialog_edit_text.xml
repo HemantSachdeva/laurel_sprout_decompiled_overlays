@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/textbox" android:layout_width="fill_parent" android:layout_height="@dimen/car_ui_dialog_edittext_height" android:layout_marginTop="@dimen/car_ui_dialog_edittext_margin_top" android:layout_marginBottom="@dimen/car_ui_dialog_edittext_margin_bottom" android:layout_marginStart="@dimen/car_ui_dialog_edittext_margin_start" android:layout_marginEnd="@dimen/car_ui_dialog_edittext_margin_end" />
+</FrameLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:paddingTop="@dimen/restore_item_vertical_padding" android:paddingBottom="@dimen/restore_item_vertical_padding" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SudItemContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="start" android:layout_gravity="top" android:id="@id/sud_items_icon_container" android:layout_width="@dimen/sud_items_icon_container_width" android:layout_height="wrap_content" android:minHeight="@dimen/google_min_touch_target_size" android:layout_marginEnd="@dimen/app_icon_margin_right">
+        <com.android.volley.toolbox.NetworkImageView android:id="@id/sud_items_icon" android:layout_width="@dimen/app_icon_size" android:layout_height="@dimen/app_icon_size" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/item_content" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/sud_items_verbose_padding_bottom_extra" android:layout_alignWithParentIfMissing="true" android:layout_toStartOf="@id/switch_container" android:layout_toEndOf="@id/sud_items_icon_container">
+        <com.google.android.setupdesign.view.RichTextView android:gravity="start" android:id="@id/sud_items_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" style="@style/SudItemTitle" />
+        <com.google.android.setupdesign.view.RichTextView android:gravity="start" android:id="@id/sud_items_summary" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" style="@style/SudItemSummary" />
+    </LinearLayout>
+    <FrameLayout android:layout_gravity="center_vertical" android:id="@id/switch_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/sud_items_icon_container" android:layout_alignBottom="@id/sud_items_icon_container" android:layout_alignParentEnd="true">
+        <CheckBox android:layout_gravity="center_vertical" android:id="@id/sud_items_checkbox" android:layout_width="@dimen/google_min_touch_target_size" android:layout_height="@dimen/google_min_touch_target_size" android:button="@null" android:drawableEnd="?android:listChoiceIndicatorMultiple" android:layout_marginStart="@dimen/list_item_checkbox_padding_start" />
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.apps.restore</configuration-package>
+        <log-sources>
+            <log-source>ANDROID_BACKUP</log-source>
+            <log-source>ANDROID_MIGRATE</log-source>
+        </log-sources>
+        <auto-subpackage>false</auto-subpackage>
+    </phenotype-registration>
+</phenotype-registrations>

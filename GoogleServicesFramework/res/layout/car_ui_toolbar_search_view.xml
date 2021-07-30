@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditText android:textColorHint="@color/car_ui_toolbar_search_hint_text_color" android:id="@id/car_ui_toolbar_search_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/car_ui_toolbar_default_search_hint" android:singleLine="true" android:inputType="text" android:imeOptions="actionSearch" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/Widget.CarUi.Toolbar.Search.EditText" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="@dimen/car_ui_toolbar_search_search_icon_container_width" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <ImageView android:layout_gravity="center" android:id="@id/car_ui_toolbar_search_icon" android:layout_width="@dimen/car_ui_toolbar_search_search_icon_size" android:layout_height="@dimen/car_ui_toolbar_search_search_icon_size" android:src="@drawable/car_ui_toolbar_search_search_icon" android:scaleType="fitXY" style="@style/Widget.CarUi.Toolbar.Search.SearchIcon" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/car_ui_toolbar_search_close" android:layout_width="@dimen/car_ui_toolbar_search_close_icon_container_width" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <ImageView android:layout_gravity="center" android:layout_width="@dimen/car_ui_toolbar_search_close_icon_size" android:layout_height="@dimen/car_ui_toolbar_search_close_icon_size" android:src="@drawable/car_ui_toolbar_search_close_icon" android:scaleType="fitXY" style="@style/Widget.CarUi.Toolbar.Search.CloseIcon" />
+        </FrameLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</merge>

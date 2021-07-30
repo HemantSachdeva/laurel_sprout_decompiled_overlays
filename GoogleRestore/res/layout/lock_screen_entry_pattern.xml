@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupdesign.GlifLayout android:icon="@drawable/quantum_ic_lock_googblue_48" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sucUsePartnerResource="false" app:sudUsePartnerHeavyTheme="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/google_red600" android:gravity="center_horizontal" android:id="@id/lock_screen_pattern_error" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/key_recovery_pattern_error_margin_top" />
+        <com.google.android.apps.pixelmigrate.cloudrestore.crypto.pattern.LockPatternView android:id="@id/lock_screen_pattern" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.google.android.setupdesign.GlifLayout>

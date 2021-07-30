@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">Ձեր մատնահետքն այժմ ակտիվ է: Օգտագործե՛ք այն սարքը արգելաբացելու համար կամ մուտքագրե՛ք գաղտնաբառը:</string>
+    <string name="fingerprint_enter_second_psw_msg">Մուտքագրե՛ք Երկրորդ տարածության գաղտնաբառը սարքը վերագործարկելուց հետո, որպեսզի օգտագործեք մատնահետքի ճանաչումը</string>
+    <string name="fingerprint_enter_second_psw_title">Մուտքագրե՛ք Երկրորդ տարածության գաղտնաբառը</string>
+    <string name="fingerprint_not_identified_msg">Չափից շատ անհաջող փորձեր: Մուտքագրե՛ք գաղտնաբառը հիմա կամ փորձե՛ք օգտագործել ձեր մատնահետքը մի քանի վայրկյանից:</string>
+    <string name="fingerprint_not_identified_msg_lock">Չափից շատ անհաջող փորձեր: Մուտքագրե՛ք գաղտնաբառը հիմա:</string>
+    <string name="fingerprint_not_identified_title">Մուտքագրել ծածկագիրը</string>
+    <string name="fingerprint_try_again_msg">Չհաջողվեց ճշտել մատնահետքը, փորձե՛ք կրկին:</string>
+    <string name="fingerprint_try_again_text">Կրկին փորձել</string>
+    <string name="fpod_fingerprint_not_recognized">Չհաջողվեց բացել: Կրկին փորձեք:</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">Սեղմե՛ք մի փոքր ավելի ուժեղ</string>
+    <string name="fpod_try_again">Կրկին փորձել</string>
+    <string name="input_password_after_72_hours_timeout_msg">Դուք չեք օգտագործել ձեր գաղտնաբառը առնվազն 72 ժամ: Մուտքագրեք ձեր գաղտնաբառը:</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Հնարավոր չէ անցում կատարել մի տարածությունից մյուսին զանգի ընթացքում</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">Դուք չեք օգտագործել ձեր գաղտնաբառը առնվազն 72 ժամ: Մուտքագրեք ձեր գաղտնաբառը:</string>
+    <string name="input_pin_after_72_hours_timeout_msg">Դուք չեք օգտագործել ձեր գաղտնաբառը առնվազն 72 ժամ: Մուտքագրեք ձեր PIN-ը:</string>
+    <string name="kg_face_unlock_liveness">Չհաջողվեց հայտնաբերել դեմքը</string>
+    <string name="kg_face_unlock_not_found">Չհաջողվեց հայտնաբերել դեմքը</string>
+    <string name="kg_face_unlock_not_matching">Չհաջողվեց ճանաչել Ձեզ</string>
+    <string name="kg_face_unlock_open_eyes">Բացեք Ձեր աչքերը</string>
+</resources>

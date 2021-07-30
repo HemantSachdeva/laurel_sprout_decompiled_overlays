@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Բոլոր %1$d հավելվածները</item>
+        <item quantity="one">Բոլոր %1$d հավելվածները</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Ընտրվել է %1$d հավելված</item>
+        <item quantity="one">Ընտրվել է %1$d հավելված</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Հնարավոր է վերականգնել %1$d հավելված: Կարող եք վերականգնել բոլորը, կամ միայն մի քանիսը:</item>
+        <item quantity="one">Հնարավոր է վերականգնել %1$d հավելված: Կարող եք վերականգնել բոլորը, կամ միայն մի քանիսը:</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d կոնտակտ սարքում</item>
+        <item quantity="one">%1$d device contacts</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d կոնտակտ սարքում և SIM քարտում</item>
+        <item quantity="one">%1$d կոնտակտ սարքում և SIM քարտում</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d կոնտակտ SIM քարտում</item>
+        <item quantity="one">%1$d SIM contacts</item>
+    </plurals>
+</resources>

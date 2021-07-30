@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">Zure hatz-aztarna orain aktibatuta dago. Erabili gailua desblokeatzeko, edo pasahitza sartu.</string>
+    <string name="fingerprint_enter_second_psw_msg">Second space-aren pasahitza sartu tresna berrabiarazi ondoren hatz-aztarnaren ezagutzea erabili ahal izateko</string>
+    <string name="fingerprint_enter_second_psw_title">Bigarren espazioaren pasahitza sartu</string>
+    <string name="fingerprint_not_identified_msg">Alferrikako ahalegin gehiegi. Pasahitza sartu orain edo zure hatz-aztarna erabiltzen saiatu segundo batzuk eta gero.</string>
+    <string name="fingerprint_not_identified_msg_lock">Alferrikako ahalegin gehiegi. Sartu pasahitza orain.</string>
+    <string name="fingerprint_not_identified_title">Sartu pasahitza</string>
+    <string name="fingerprint_try_again_msg">Hatz-aztarna ezin izan da egiaztatu. Berriro saiatu.</string>
+    <string name="fingerprint_try_again_text">Saiatu berriro</string>
+    <string name="fpod_fingerprint_not_recognized">Ezin izan da desblokeatu. Saiatu berriz.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">Sakatu pixka bat gogorrago</string>
+    <string name="fpod_try_again">Saiatu berriro</string>
+    <string name="input_password_after_72_hours_timeout_msg">Ez duzu zure pasahitza erabili gutxienez 72 orduz. Sartu zure pasahitza.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Ezin da lekuz aldatu dei bat egiten den bitartean</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">Ez duzu zure pasahitza erabili gutxienez 72 orduz. Marraztu zure patroia.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">Ez duzu zure pasahitza erabili gutxienez 72 orduz. Sartu zure PIN kodea.</string>
+    <string name="kg_face_unlock_liveness">Ezin izan da aurpegia detektatu</string>
+    <string name="kg_face_unlock_not_found">Ezin izan da aurpegia detektatu</string>
+    <string name="kg_face_unlock_not_matching">Ezin izan zaitu ezagutu</string>
+    <string name="kg_face_unlock_open_eyes">Begiak ireki</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Mind a(z) %1$d alkalmazás</item>
+        <item quantity="one">1 alkalmazás</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d alkalmazás kiválasztva</item>
+        <item quantity="one">1 alkalmazás kiválasztva</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d alkalmazás állítható vissza. Válasszon ki néhányat, vagy hozza át mindet.</item>
+        <item quantity="one">%1$d alkalmazás állítható vissza</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d névjegy az eszközön</item>
+        <item quantity="one">1 névjegy az eszközön</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d névjegy az eszközön és a SIM-kártyán</item>
+        <item quantity="one">%1$d névjegy az eszközön és a SIM-kártyán</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d névjegy a SIM-kártyán</item>
+        <item quantity="one">1 névjegy a SIM-kártyán</item>
+    </plurals>
+</resources>

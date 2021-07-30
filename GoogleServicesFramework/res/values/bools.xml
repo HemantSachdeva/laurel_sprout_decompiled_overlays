@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="car_ui_enable_focus_area_background_highlight">false</bool>
+    <bool name="car_ui_enable_focus_area_foreground_highlight">false</bool>
+    <bool name="car_ui_list_item_single_line_title">true</bool>
+    <bool name="car_ui_preference_list_show_full_screen">true</bool>
+    <bool name="car_ui_preference_show_chevron">false</bool>
+    <bool name="car_ui_scrollbar_enable">true</bool>
+    <bool name="car_ui_toolbar_logo_fills_nav_icon_space">true</bool>
+    <bool name="car_ui_toolbar_nav_icon_reserve_space">true</bool>
+    <bool name="car_ui_toolbar_show_logo">true</bool>
+    <bool name="car_ui_toolbar_tab_flexible_layout">false</bool>
+    <bool name="car_ui_toolbar_tabs_on_second_row">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+</resources>

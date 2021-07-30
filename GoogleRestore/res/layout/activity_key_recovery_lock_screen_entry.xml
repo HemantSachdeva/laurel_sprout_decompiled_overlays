@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ProgressBar android:id="@id/indeterminate_progress_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:indeterminateOnly="true" style="?android:progressBarStyleHorizontal" />
+    <FrameLayout android:id="@id/translucent_overlay" android:background="@color/translucent_white" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

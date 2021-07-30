@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Alls %1$d forrit</item>
+        <item quantity="one">Alls %1$d forrit</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d forrit valið</item>
+        <item quantity="one">%1$d forrit valið</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d forrit í boði til að endurheimta. Veldu nokkur eða taktu þau öll með.</item>
+        <item quantity="one">%1$d forrit í boði til að endurheimta. Veldu nokkur eða taktu þau öll með.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d tengiliðir í tæki</item>
+        <item quantity="one">%1$d tengiliður í tæki</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d tengiliðir í tæki og á SIM-korti</item>
+        <item quantity="one">%1$d tengiliður í tæki og á SIM-korti</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d tengiliðir á SIM</item>
+        <item quantity="one">%1$d tengiliður á SIM</item>
+    </plurals>
+</resources>

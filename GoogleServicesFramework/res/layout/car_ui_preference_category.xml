@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/car_ui_preference_category_min_height" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@android:id/icon" android:layout_width="@dimen/car_ui_preference_category_icon_size" android:layout_height="@dimen/car_ui_preference_category_icon_size" android:layout_marginTop="@dimen/car_ui_preference_content_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_content_margin_bottom" android:scaleType="fitCenter" android:tint="@color/car_ui_preference_icon_color" android:layout_marginEnd="@dimen/car_ui_preference_category_icon_margin_end" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/car_ui_preference_content_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_content_margin_bottom">
+        <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceCategoryTitle" android:id="@android:id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" />
+        <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceSummary" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="@dimen/car_ui_list_item_check_box_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/car_ui_check_box_start_guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_begin="@dimen/car_ui_list_item_check_box_start_inset" />
+    <androidx.constraintlayout.widget.Guideline android:orientation="vertical" android:id="@id/car_ui_check_box_end_guideline" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_end="@dimen/car_ui_list_item_check_box_end_inset" />
+    <FrameLayout android:id="@id/check_box_container" android:layout_width="@dimen/car_ui_list_item_check_box_icon_container_width" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="@id/car_ui_check_box_start_guideline" app:layout_constraintTop_toTopOf="parent">
+        <CheckBox android:layout_gravity="center" android:id="@id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <TextView android:textAppearance="@style/TextAppearance.CarUi.ListItem" android:id="@id/text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginStart="@dimen/car_ui_list_item_text_start_margin" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="@id/car_ui_check_box_end_guideline" app:layout_constraintStart_toEndOf="@id/check_box_container" app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Al %1$d programme</item>
+        <item quantity="one">1 program</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d programme gekies</item>
+        <item quantity="one">1 program gekies</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">"%1$d programme kan teruggelaai word. Kies 'n paar of bring hulle almal oor."</item>
+        <item quantity="one">%1$d program kan teruggelaai word</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d toestelkontakte</item>
+        <item quantity="one">1 toestelkontak</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d toestel- en SIM-kontakte</item>
+        <item quantity="one">%1$d toestel- en SIM-kontak</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM-kontakte</item>
+        <item quantity="one">1 SIM-kontak</item>
+    </plurals>
+</resources>

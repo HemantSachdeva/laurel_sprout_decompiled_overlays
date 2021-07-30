@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">Su sõrmejälg on nüüd aktiivne. Kasuta seda seadme avamiseks või sisesta parool.</string>
+    <string name="fingerprint_enter_second_psw_msg">Sisesta sõrmejälje tuvastamiseks pärast seadme taaskäivitamist Teise ruumi parool</string>
+    <string name="fingerprint_enter_second_psw_title">Sisesta Teise ruumi parool</string>
+    <string name="fingerprint_not_identified_msg">Liiga palju ebaõnnestunud katseid. Sisesta kohe parool või proovi mõne sekundi pärast kasutada sõrmejälge.</string>
+    <string name="fingerprint_not_identified_msg_lock">Liiga palju ebaõnnestunud katseid. Sisesta kohe parool.</string>
+    <string name="fingerprint_not_identified_title">Sisestage parool</string>
+    <string name="fingerprint_try_again_msg">Sõrmejälge ei õnnestunud kindlaks teha. Proovi uuesti.</string>
+    <string name="fingerprint_try_again_text">Proovi uuesti</string>
+    <string name="fpod_fingerprint_not_recognized">Ei õnnestunud lahti lukustada. Proovi uuesti.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">Vajuta veidi tugevamini</string>
+    <string name="fpod_try_again">Proovi uuesti</string>
+    <string name="input_password_after_72_hours_timeout_msg">Sa ei ole oma parooli kasutanud vähemalt 72 tundi. Sisesta oma parool.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kõne ajal ei saa ruume vahetada</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">Sa ei ole oma parooli kasutanud vähemalt 72 tundi. Joonista oma muster.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">Sa ei ole oma parooli kasutanud vähemalt 72 tundi. Sisesta oma PIN.</string>
+    <string name="kg_face_unlock_liveness">Nägu ei õnnestunud tuvastada</string>
+    <string name="kg_face_unlock_not_found">Nägu ei õnnestunud tuvastada</string>
+    <string name="kg_face_unlock_not_matching">Ei suutnud sind ära tunda</string>
+    <string name="kg_face_unlock_open_eyes">Ava oma silmad</string>
+</resources>

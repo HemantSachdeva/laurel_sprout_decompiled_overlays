@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">எல்லா %1$d பயன்பாடுகளும்</item>
+        <item quantity="one">1 பயன்பாடு</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d ஆப்ஸ்கள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">1 ஆப்ஸ் தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">மீட்டமைக்க %1$d ஆப்ஸ் உள்ளன. அவற்றில் சிலவற்றையோ எல்லாவற்றையோ தேர்வுசெய்யவும்.</item>
+        <item quantity="one">மீட்டமைக்க %1$d ஆப்ஸ் உள்ளது.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d சாதனத் தொடர்புகள்</item>
+        <item quantity="one">ஒரு சாதனத் தொடர்பு</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d சாதனம் மற்றும் சிம் தொடர்புகள்</item>
+        <item quantity="one">%1$d சாதனம் மற்றும் சிம் தொடர்பு</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d சிம் தொடர்புகள்</item>
+        <item quantity="one">1 சிம் தொடர்பு</item>
+    </plurals>
+</resources>

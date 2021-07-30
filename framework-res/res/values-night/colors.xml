@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default">@color/accent_device_default_dark</color>
+    <color name="chooser_chip_icon">#ff8ab4f8</color>
+    <color name="chooser_gradient_background">@color/loading_gradient_background_color_dark</color>
+    <color name="chooser_gradient_highlight">@color/loading_gradient_highlight_color_dark</color>
+    <color name="chooser_row_divider">@color/list_divider_color_dark</color>
+    <color name="notification_default_color_dark">#ddffffff</color>
+    <color name="notification_material_background_color">@color/black</color>
+    <color name="notification_primary_text_color_dark">#ddffffff</color>
+    <color name="notification_secondary_text_color_dark">#b2ffffff</color>
+    <color name="personal_apps_suspension_notification_color">#ff8ab4f8</color>
+    <color name="resolver_empty_state_icon">#ffffffff</color>
+    <color name="resolver_empty_state_text">#ffffffff</color>
+</resources>

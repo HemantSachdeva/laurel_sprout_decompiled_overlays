@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">सर्व %1$d अ‍ॅप्स</item>
+        <item quantity="one">1 ॲप</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d अ‍ॅप्स निवडले</item>
+        <item quantity="one">1 अ‍ॅप निवडला</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d अ‍ॅप्स रिस्टोअर करण्यासाठी उपलब्ध आहेत. काही अ‍ॅप्स निवडा किंवा ते सर्व निवडा.</item>
+        <item quantity="one">%1$d ॲप रिस्टोअर करण्यासाठी उपलब्ध आहे</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d डिव्हाइस संपर्क</item>
+        <item quantity="one">1 डिव्हाइस संपर्क</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d डिव्‍हाइस आणि सिम संपर्क</item>
+        <item quantity="one">%1$d डिव्‍हाइस आणि सिम संपर्क</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d सिम संपर्क</item>
+        <item quantity="one">1 सिम संपर्क</item>
+    </plurals>
+</resources>

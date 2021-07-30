@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: XGRit/kJxX6M4tEoYsz2jqAgxXG4x1gfWezB3VvEmyA=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/ic_smartspace_preferences.xml
+SHA-256-Digest: 5KKPVe/IGkyr5Gal17o54wK6MEg6E9wbCaYuu6562kc=
+
+Name: res/drawable/ic_install_no_shadow.xml
+SHA-256-Digest: fq4AYjyWO/Lu+wFKzahBeoaTVjxSeCKHByzqU5QBF4E=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: iTxgDuPbQn2CV1fo98DshWQtd8rCr4WyLkcGPQdjHjw=
+
+Name: res/drawable/ic_split_screen.xml
+SHA-256-Digest: ghAOOqCc4UUTnpmxsv8PRT9YVOSxA/6gQFA6Tvu/sGk=
+
+Name: res/drawable/ic_widget.xml
+SHA-256-Digest: 7H3yhtNeuE5wEIRXLPWQzCU3sR9tE+TCgQimMnOON+Q=
+
+Name: res/drawable/ic_screenshot.xml
+SHA-256-Digest: Pp2M1j02lCvVPQozpfRux+61KptuwLk+ZXDENy+GMA0=
+
+Name: res/drawable/ic_select.xml
+SHA-256-Digest: Dpf1d+GJKzDd6HedFysJeHl0RGU+78mro4E+5Ts2tz0=
+
+Name: res/drawable/ic_remove_no_shadow.xml
+SHA-256-Digest: 8XGBl6o9R+uStDjnvxuuYAbaiac2iK+XDCys+KXL+RQ=
+
+Name: res/drawable/ic_palette.xml
+SHA-256-Digest: QXfE+GU2PR9ojvYMRWDi7U9+yjtiZx/0pxfQxmdFaYc=
+
+Name: res/drawable/ic_warning.xml
+SHA-256-Digest: t+PNOICpc4+jm8KcFzaMBz0eannfZzfdUitpP9/ZIik=
+
+Name: res/drawable/ic_share.xml
+SHA-256-Digest: Oc2hiGzOlUeMSLoQc6WuYocN9QUlqd+xOdddwv1VMbo=
+
+Name: res/drawable/ic_pin.xml
+SHA-256-Digest: hR62LdicxwUpvuiLrfOxR9i/Wg9GihcYujyLIY1r6Kk=
+
+Name: res/drawable/ic_corp_off.xml
+SHA-256-Digest: VGPepBVIq7bq3aoDm+34+wTB1UxM7a/baROk0l5qttw=
+
+Name: res/drawable/ic_hourglass_top.xml
+SHA-256-Digest: HB+cQxKFY6TVIb8zatFspr0WTFdYHvTNxM+LQoH4qUg=
+
+Name: res/drawable/ic_info_no_shadow.xml
+SHA-256-Digest: LpkOnvVS5TvRCn6drkqh91Z+lU1hSvA6GtKSJrELOl8=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA-256-Digest: 9h15gD8Ww8ZQMxxFAr7QZiLTbO63f3XWqI5Z0F9Vhhk=
+
+Name: res/drawable/ic_uninstall_no_shadow.xml
+SHA-256-Digest: JAS6zT0SbD3rf6GplauxYeGXy9Ax9ogsLdJkzpb2+/0=
+
+Name: resources.arsc
+SHA-256-Digest: o9OyHA948m3/zWNrsBYJbv6fVG4SiaeZnpq0cjsuIGE=
+
+Name: res/drawable/ic_corp.xml
+SHA-256-Digest: JKWTjW4dtHWpJDt4OGaFT3lnbaWTP5dMuf14NpmpdMk=
+
+Name: res/drawable/ic_setting.xml
+SHA-256-Digest: uS/uoFv03cY88bBBRBHg1Odc1hNhw6OUOgFr83NLahc=
+

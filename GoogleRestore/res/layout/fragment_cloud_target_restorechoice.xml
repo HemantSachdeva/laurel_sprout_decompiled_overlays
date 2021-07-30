@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupdesign.GlifListLayout android:icon="@drawable/quantum_gm_ic_cloud_download_googblue_48" android:id="@id/restorechoice" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sucUsePartnerResource="false" app:sudDividerInsetEnd="@dimen/sud_items_glif_text_divider_inset" app:sudDividerInsetStart="@dimen/sud_items_glif_text_divider_inset" app:sudUsePartnerHeavyTheme="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

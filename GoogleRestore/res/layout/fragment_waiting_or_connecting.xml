@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupdesign.GlifLayout android:icon="@drawable/quantum_gm_ic_compare_arrows_googblue_48" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sucUsePartnerResource="false" app:sudUsePartnerHeavyTheme="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.setupdesign.view.FillContentLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ProgressBar android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SudFourColorIndeterminateProgressBar" />
+    </com.google.android.setupdesign.view.FillContentLayout>
+</com.google.android.setupdesign.GlifLayout>

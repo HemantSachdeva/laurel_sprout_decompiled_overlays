@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 3GMoZDdcTXCtMKzuA1PWRUgrL2PMVtZydoy2UwHOUmc=
+
+Name: res/drawable/ic_back_arrow.xml
+SHA-256-Digest: hCBpQyJRYJPihQyAQOU3KtktMKNCvO9uX440nmyNIiM=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: RP0CG9P9ZWFuiGVVVQctFSbjQCWLmzkJYws2Dnqiem0=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: Ys6qOKHLvjdIsv9dII0MLOMiqosFFf77QA8rmP3am3U=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: Jp/H5xz8LNIufXgB1SUzWo5hpOzMplis9bBeloeOpHI=
+
+Name: res/xml/callwaiting_cdma_options.xml
+SHA-256-Digest: H+Np785aoRWfzFLXcx5FdoCfuWoptVtGazcRTN1UFLQ=
+
+Name: resources.arsc
+SHA-256-Digest: Dx0o8cFxDrPYNhtU236HMap1630q/+4ke2oxYhDN8bw=
+
+Name: res/drawable-hdpi-v4/ic_arrow_back_24dp.png
+SHA-256-Digest: VTV/ZRSF6H8rjx7Knntb6vsYo5ZwGGwnPnekLQ0/byY=
+
+Name: res/layout/pref_dialog_editphonenumber.xml
+SHA-256-Digest: ParofpiDfr8QcauJjQVneaK4OBzuJ33bCPxFHvt+O88=
+
+Name: classes.dex
+SHA-256-Digest: o+RsdrENQEVOX1b4FP1qTfuBCJGHnmJXt2MnJ1IP/zI=
+
+Name: res/drawable-hdpi-v4/ic_see_contacts_holo_dark.png
+SHA-256-Digest: uuOhDRBJ28nE8uzVoHxbZtgk3xpfypzHbD0w88G98p8=
+
+Name: res/xml/callforward_cdma_options.xml
+SHA-256-Digest: Pql9jTEXMtcNnMAe4Pt/GbtnuSkoauNyjlxIX4bVJ24=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: fvxNiN2IbaHQcf2jcWlK4t35ugdTX2gf1T/3h63U5zE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: oly+MsJl8sxy+acLArHRANr7No2FB/NlBZ1rRFvs+uM=
+

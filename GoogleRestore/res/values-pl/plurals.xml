@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Wszystkie %1$d aplikacji</item>
+        <item quantity="one">1 aplikacja</item>
+        <item quantity="few">Wszystkie %1$d aplikacje</item>
+        <item quantity="many">Wszystkie %1$d aplikacji</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Wybrano %1$d aplikacji</item>
+        <item quantity="one">Wybrano 1 aplikację</item>
+        <item quantity="few">Wybrano %1$d aplikacje</item>
+        <item quantity="many">Wybrano %1$d aplikacji</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d aplikacji dostępnej do przywrócenia. Wybierz kilka lub przenieś wszystkie.</item>
+        <item quantity="one">%1$d aplikacja dostępna do przywrócenia</item>
+        <item quantity="few">%1$d aplikacje dostępne do przywrócenia. Wybierz kilka lub przenieś wszystkie.</item>
+        <item quantity="many">%1$d aplikacji dostępnych do przywrócenia. Wybierz kilka lub przenieś wszystkie.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontaktu na urządzeniu</item>
+        <item quantity="one">1 kontakt na urządzeniu</item>
+        <item quantity="few">%1$d kontakty na urządzeniu</item>
+        <item quantity="many">%1$d kontaktów na urządzeniu</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d kontaktu na urządzeniu i karcie SIM</item>
+        <item quantity="one">%1$d kontakt na urządzeniu i karcie SIM</item>
+        <item quantity="few">%1$d kontakty na urządzeniu i karcie SIM</item>
+        <item quantity="many">%1$d kontaktów na urządzeniu i karcie SIM</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d kontaktu na karcie SIM</item>
+        <item quantity="one">1 kontakt na karcie SIM</item>
+        <item quantity="few">%1$d kontakty na karcie SIM</item>
+        <item quantity="many">%1$d kontaktów na karcie SIM</item>
+    </plurals>
+</resources>

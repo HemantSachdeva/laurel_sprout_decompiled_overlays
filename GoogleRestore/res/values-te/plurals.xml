@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">మొత్తం %1$d యాప్‌లు</item>
+        <item quantity="one">1 యాప్</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d యాప్‌లు ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">1 యాప్ ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">పునరుద్ధరించడానికి %1$d యాప్‌లు అందుబాటులో ఉన్నాయి. వీటిలో కొన్నింటిని ఎంచుకోండి లేదా అన్నింటినీ పునరుద్ధరించండి.</item>
+        <item quantity="one">పునరుద్ధరించడానికి %1$d యాప్ అందుబాటులో ఉంది</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d పరికరం పరిచయాలు</item>
+        <item quantity="one">1 పరికరం పరిచయం</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d పరికరం మరియు SIM పరిచయాలు</item>
+        <item quantity="one">%1$d పరికరం మరియు SIM పరిచయం</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM పరిచయాలు</item>
+        <item quantity="one">1 SIM పరిచయం</item>
+    </plurals>
+</resources>

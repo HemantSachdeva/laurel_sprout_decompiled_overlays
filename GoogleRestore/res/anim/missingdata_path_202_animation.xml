@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <set android:ordering="sequentially">
+        <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="868" android:valueFrom="#ffbcc1c5" android:valueTo="#ffbcc1c5" android:propertyName="fillColor" />
+        <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="336" android:valueFrom="#ffbcc1c5" android:valueTo="#ff33a752" android:propertyName="fillColor" />
+        <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="336" android:valueFrom="#ff33a752" android:valueTo="#ff33a752" android:propertyName="fillColor" />
+        <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="336" android:valueFrom="#ff33a752" android:valueTo="#ffbcc1c5" android:propertyName="fillColor" />
+    </set>
+</set>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CFA_DEACT">[]</string>
+    <string name="CFActivate">[ÅçţîVåţé one two]</string>
+    <string name="CFB_ACT">[]</string>
+    <string name="CFB_DEACT">[]</string>
+    <string name="CFDeactivate">[ÐéåçţîVåţé one two]</string>
+    <string name="CFNRC_ACT">[]</string>
+    <string name="CFNRC_DEACT">[]</string>
+    <string name="CFNRY_ACT">[]</string>
+    <string name="CFNRY_DEACT">[]</string>
+    <string name="CFU_ACT">[]</string>
+    <string name="CFU_DEACT">[]</string>
+    <string name="CW_ACT">[]</string>
+    <string name="CW_DEACT">[]</string>
+    <string name="app_name">[ÇåļļFéåţûŕéŠéţţîñĝ one two three]</string>
+    <string name="call_forwarding_settings">[Çåļļ ƒöŕŵåŕðîñĝ šéţţîñĝš one two three]</string>
+    <string name="call_waiting_settings">[Çåļļ ŵåîţîñĝ šéţţîñĝš one two three]</string>
+    <string name="change_num">[Ûþðåţé one two]</string>
+    <string name="disable">[Ţûŕñ öƒƒ one two]</string>
+    <string name="enable">[Ţûŕñ öñ one two]</string>
+    <string name="help">[Ĥéļþ one]</string>
+    <string name="labelCF">[Çåļļ ƒöŕŵåŕðîñĝ one two three]</string>
+    <string name="labelCFB">[Ŵĥéñ ɓûšý one two]</string>
+    <string name="labelCFDeactAll">[ÐéåçţîVåţé Åļļ one two three]</string>
+    <string name="labelCFNRc">[Ŵĥéñ ûñŕéåçĥåɓļé one two three]</string>
+    <string name="labelCFNRc_cdma">[Föŕŵåŕð Îḿþļîçîţļý one two three]</string>
+    <string name="labelCFNRy">[Ŵĥéñ ûñåñšŵéŕéð one two three]</string>
+    <string name="labelCFU">[Åļŵåýš ƒöŕŵåŕð one two three]</string>
+    <string name="labelCW">[Çåļļ ŵåîţîñĝ one two]</string>
+    <string name="messageCFB">[Ñûḿɓéŕ ŵĥéñ ɓûšý one two three]</string>
+    <string name="messageCFNRc">[Ñûḿɓéŕ ŵĥéñ ûñŕéåçĥåɓļé one two three]</string>
+    <string name="messageCFNRy">[Ñûḿɓéŕ ŵĥéñ ûñåñšŵéŕéð one two three]</string>
+    <string name="messageCFU">[Åļŵåýš ûšé ţĥîš ñûḿɓéŕ one two three]</string>
+    <string name="missing_permission_msg">"[Ţĥîš åþþļîçåţîöñ çåñ'ţ ŵöŕķ ŵîţĥöûţ ŕéQûîŕéð þéŕḿîššîöñš. Þļéåšé ĝŕåñţ ţĥé þéŕḿîššîöñš îñ Šéţţîñĝš. one two three four five six seven eight nine ten eleven]"</string>
+    <string name="null_phone_number">[Þĥöñé ñûḿɓéŕ çåññöţ ɓé ñûļļ ¡ one two three four]</string>
+    <string name="quit">[qûîţ one]</string>
+    <string name="selectContact">[šéļéçţ çöñţåçţ one two three]</string>
+    <string name="settings">[Šéţţîñĝš one two]</string>
+</resources>

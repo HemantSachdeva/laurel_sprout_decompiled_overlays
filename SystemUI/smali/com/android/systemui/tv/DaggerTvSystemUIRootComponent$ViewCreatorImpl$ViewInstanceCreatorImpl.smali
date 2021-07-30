@@ -1,0 +1,1304 @@
+.class final Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;
+.super Ljava/lang/Object;
+.source "DaggerTvSystemUIRootComponent.java"
+
+# interfaces
+.implements Lcom/android/systemui/util/InjectionInflationController$ViewInstanceCreator;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x12
+    name = "ViewInstanceCreatorImpl"
+.end annotation
+
+
+# instance fields
+.field final synthetic this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+.field private viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+
+# direct methods
+.method private constructor <init>(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)V
+    .locals 0
+
+    .line 4696
+    iput-object p1, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 4697
+    invoke-direct {p0, p2}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->initialize(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)V
+
+    return-void
+.end method
+
+.method synthetic constructor <init>(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$1;)V
+    .locals 0
+
+    .line 4691
+    invoke-direct {p0, p1, p2}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;-><init>(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)V
+
+    return-void
+.end method
+
+.method private getNotificationSectionsManager()Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsManager;
+    .locals 9
+
+    .line 4701
+    new-instance v8, Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsManager;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4702
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v1, v0
+
+    check-cast v1, Lcom/android/systemui/plugins/ActivityStarter;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4703
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$7600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v2, v0
+
+    check-cast v2, Lcom/android/systemui/plugins/statusbar/StatusBarStateController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4704
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/statusbar/policy/ConfigurationController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4705
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/statusbar/notification/people/PeopleHubViewAdapter;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4706
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v5, v0
+
+    check-cast v5, Lcom/android/systemui/media/KeyguardMediaController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4707
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Lcom/android/systemui/statusbar/notification/NotificationSectionsFeatureManager;
+
+    move-result-object v6
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4708
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v7, p0
+
+    check-cast v7, Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsLogger;
+
+    move-object v0, v8
+
+    invoke-direct/range {v0 .. v7}, Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsManager;-><init>(Lcom/android/systemui/plugins/ActivityStarter;Lcom/android/systemui/plugins/statusbar/StatusBarStateController;Lcom/android/systemui/statusbar/policy/ConfigurationController;Lcom/android/systemui/statusbar/notification/people/PeopleHubViewAdapter;Lcom/android/systemui/media/KeyguardMediaController;Lcom/android/systemui/statusbar/notification/NotificationSectionsFeatureManager;Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsLogger;)V
+
+    return-object v8
+.end method
+
+.method private getTileQueryHelper()Lcom/android/systemui/qs/customize/TileQueryHelper;
+    .locals 3
+
+    .line 4712
+    new-instance v0, Lcom/android/systemui/qs/customize/TileQueryHelper;
+
+    iget-object v1, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4713
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v2, v2, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4714
+    invoke-static {v2}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljava/util/concurrent/Executor;
+
+    move-result-object v2
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4715
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13800(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    check-cast p0, Ljava/util/concurrent/Executor;
+
+    invoke-direct {v0, v1, v2, p0}, Lcom/android/systemui/qs/customize/TileQueryHelper;-><init>(Landroid/content/Context;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)V
+
+    return-object v0
+.end method
+
+.method private initialize(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)V
+    .locals 0
+
+    .line 4721
+    invoke-static {p1}, Ldagger/internal/Preconditions;->checkNotNull(Ljava/lang/Object;)Ljava/lang/Object;
+
+    check-cast p1, Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    iput-object p1, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public creatNotificationShelf()Lcom/android/systemui/statusbar/NotificationShelf;
+    .locals 3
+
+    .line 4782
+    new-instance v0, Lcom/android/systemui/statusbar/NotificationShelf;
+
+    iget-object v1, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4784
+    invoke-static {v1}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4786
+    invoke-static {v2}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4787
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    check-cast p0, Lcom/android/systemui/statusbar/phone/KeyguardBypassController;
+
+    invoke-direct {v0, v1, v2, p0}, Lcom/android/systemui/statusbar/NotificationShelf;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/statusbar/phone/KeyguardBypassController;)V
+
+    return-object v0
+.end method
+
+.method public createKeyguardClockSwitch()Lcom/android/keyguard/KeyguardClockSwitch;
+    .locals 7
+
+    .line 4792
+    new-instance v6, Lcom/android/keyguard/KeyguardClockSwitch;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4794
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4796
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4797
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$7600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/plugins/statusbar/StatusBarStateController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4798
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$5700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/colorextraction/SysuiColorExtractor;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4799
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$10300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v5, p0
+
+    check-cast v5, Lcom/android/keyguard/clock/ClockManager;
+
+    move-object v0, v6
+
+    invoke-direct/range {v0 .. v5}, Lcom/android/keyguard/KeyguardClockSwitch;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/plugins/statusbar/StatusBarStateController;Lcom/android/systemui/colorextraction/SysuiColorExtractor;Lcom/android/keyguard/clock/ClockManager;)V
+
+    return-object v6
+.end method
+
+.method public createKeyguardMessageArea()Lcom/android/keyguard/KeyguardMessageArea;
+    .locals 3
+
+    .line 4817
+    new-instance v0, Lcom/android/keyguard/KeyguardMessageArea;
+
+    iget-object v1, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4819
+    invoke-static {v1}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4821
+    invoke-static {v2}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4822
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    check-cast p0, Lcom/android/systemui/statusbar/policy/ConfigurationController;
+
+    invoke-direct {v0, v1, v2, p0}, Lcom/android/keyguard/KeyguardMessageArea;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/statusbar/policy/ConfigurationController;)V
+
+    return-object v0
+.end method
+
+.method public createKeyguardSliceView()Lcom/android/keyguard/KeyguardSliceView;
+    .locals 8
+
+    .line 4804
+    new-instance v7, Lcom/android/keyguard/KeyguardSliceView;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4806
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4808
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4809
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/plugins/ActivityStarter;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4810
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/statusbar/policy/ConfigurationController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4811
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4200(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v5, v0
+
+    check-cast v5, Lcom/android/systemui/tuner/TunerService;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4812
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Landroid/content/res/Resources;
+
+    move-result-object v6
+
+    move-object v0, v7
+
+    invoke-direct/range {v0 .. v6}, Lcom/android/keyguard/KeyguardSliceView;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/plugins/ActivityStarter;Lcom/android/systemui/statusbar/policy/ConfigurationController;Lcom/android/systemui/tuner/TunerService;Landroid/content/res/Resources;)V
+
+    return-object v7
+.end method
+
+.method public createNotificationStackScrollLayout()Lcom/android/systemui/statusbar/notification/stack/NotificationStackScrollLayout;
+    .locals 25
+
+    move-object/from16 v0, p0
+
+    .line 4753
+    new-instance v23, Lcom/android/systemui/statusbar/notification/stack/NotificationStackScrollLayout;
+
+    move-object/from16 v1, v23
+
+    iget-object v2, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4755
+    invoke-static {v2}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v2
+
+    iget-object v3, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4757
+    invoke-static {v3}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v3
+
+    iget-object v4, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v4, v4, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4758
+    invoke-static {v4}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14000(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v4
+
+    invoke-interface {v4}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v4
+
+    check-cast v4, Ljava/lang/Boolean;
+
+    invoke-virtual {v4}, Ljava/lang/Boolean;->booleanValue()Z
+
+    move-result v4
+
+    iget-object v5, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v5, v5, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4759
+    invoke-static {v5}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v5
+
+    invoke-interface {v5}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v5
+
+    check-cast v5, Lcom/android/systemui/statusbar/notification/stack/NotificationRoundnessManager;
+
+    iget-object v6, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v6, v6, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4760
+    invoke-static {v6}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14200(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v6
+
+    invoke-interface {v6}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v6
+
+    check-cast v6, Lcom/android/systemui/statusbar/notification/DynamicPrivacyController;
+
+    iget-object v7, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v7, v7, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4761
+    invoke-static {v7}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$7600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v7
+
+    invoke-interface {v7}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v7
+
+    check-cast v7, Lcom/android/systemui/statusbar/SysuiStatusBarStateController;
+
+    iget-object v8, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v8, v8, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4762
+    invoke-static {v8}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v8
+
+    invoke-interface {v8}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v8
+
+    check-cast v8, Lcom/android/systemui/statusbar/phone/HeadsUpManagerPhone;
+
+    iget-object v9, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v9, v9, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4763
+    invoke-static {v9}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v9
+
+    invoke-interface {v9}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v9
+
+    check-cast v9, Lcom/android/systemui/statusbar/phone/KeyguardBypassController;
+
+    iget-object v10, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v10, v10, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4764
+    invoke-static {v10}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v10
+
+    invoke-interface {v10}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v10
+
+    check-cast v10, Lcom/android/systemui/media/KeyguardMediaController;
+
+    iget-object v11, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v11, v11, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4765
+    invoke-static {v11}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v11
+
+    invoke-interface {v11}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v11
+
+    check-cast v11, Lcom/android/systemui/plugins/FalsingManager;
+
+    iget-object v12, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v12, v12, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4766
+    invoke-static {v12}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$7700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v12
+
+    invoke-interface {v12}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v12
+
+    check-cast v12, Lcom/android/systemui/statusbar/NotificationLockscreenUserManager;
+
+    iget-object v13, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v13, v13, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4767
+    invoke-static {v13}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$8100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v13
+
+    invoke-interface {v13}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v13
+
+    check-cast v13, Lcom/android/systemui/statusbar/notification/row/NotificationGutsManager;
+
+    iget-object v14, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v14, v14, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4768
+    invoke-static {v14}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$2100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v14
+
+    invoke-interface {v14}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v14
+
+    check-cast v14, Lcom/android/systemui/statusbar/policy/ZenModeController;
+
+    .line 4769
+    invoke-direct/range {p0 .. p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->getNotificationSectionsManager()Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsManager;
+
+    move-result-object v15
+
+    move-object/from16 v24, v1
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4770
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v16, v1
+
+    check-cast v16, Lcom/android/systemui/statusbar/notification/stack/ForegroundServiceSectionController;
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4771
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    .line 4772
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v17, v1
+
+    check-cast v17, Lcom/android/systemui/statusbar/notification/ForegroundServiceDismissalFeatureController;
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4773
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v18, v1
+
+    check-cast v18, Lcom/android/systemui/statusbar/FeatureFlags;
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4774
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14800(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v19, v1
+
+    check-cast v19, Lcom/android/systemui/statusbar/notification/collection/NotifPipeline;
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4775
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$9400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v20, v1
+
+    check-cast v20, Lcom/android/systemui/statusbar/notification/NotificationEntryManager;
+
+    iget-object v1, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v1, v1, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4776
+    invoke-static {v1}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$14900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v1
+
+    move-object/from16 v21, v1
+
+    check-cast v21, Lcom/android/systemui/statusbar/notification/collection/NotifCollection;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4777
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object/from16 v22, v0
+
+    check-cast v22, Lcom/android/internal/logging/UiEventLogger;
+
+    move-object/from16 v1, v24
+
+    invoke-direct/range {v1 .. v22}, Lcom/android/systemui/statusbar/notification/stack/NotificationStackScrollLayout;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;ZLcom/android/systemui/statusbar/notification/stack/NotificationRoundnessManager;Lcom/android/systemui/statusbar/notification/DynamicPrivacyController;Lcom/android/systemui/statusbar/SysuiStatusBarStateController;Lcom/android/systemui/statusbar/phone/HeadsUpManagerPhone;Lcom/android/systemui/statusbar/phone/KeyguardBypassController;Lcom/android/systemui/media/KeyguardMediaController;Lcom/android/systemui/plugins/FalsingManager;Lcom/android/systemui/statusbar/NotificationLockscreenUserManager;Lcom/android/systemui/statusbar/notification/row/NotificationGutsManager;Lcom/android/systemui/statusbar/policy/ZenModeController;Lcom/android/systemui/statusbar/notification/stack/NotificationSectionsManager;Lcom/android/systemui/statusbar/notification/stack/ForegroundServiceSectionController;Lcom/android/systemui/statusbar/notification/ForegroundServiceDismissalFeatureController;Lcom/android/systemui/statusbar/FeatureFlags;Lcom/android/systemui/statusbar/notification/collection/NotifPipeline;Lcom/android/systemui/statusbar/notification/NotificationEntryManager;Lcom/android/systemui/statusbar/notification/collection/NotifCollection;Lcom/android/internal/logging/UiEventLogger;)V
+
+    return-object v23
+.end method
+
+.method public createQSCustomizer()Lcom/android/systemui/qs/customize/QSCustomizer;
+    .locals 9
+
+    .line 4855
+    new-instance v8, Lcom/android/systemui/qs/customize/QSCustomizer;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4856
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4858
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4859
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$6200(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/statusbar/phone/LightBarController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4860
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$2700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/statusbar/policy/KeyguardStateController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4861
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4800(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v5, v0
+
+    check-cast v5, Lcom/android/systemui/keyguard/ScreenLifecycle;
+
+    .line 4862
+    invoke-direct {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->getTileQueryHelper()Lcom/android/systemui/qs/customize/TileQueryHelper;
+
+    move-result-object v6
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4863
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v7, p0
+
+    check-cast v7, Lcom/android/internal/logging/UiEventLogger;
+
+    move-object v0, v8
+
+    invoke-direct/range {v0 .. v7}, Lcom/android/systemui/qs/customize/QSCustomizer;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/statusbar/phone/LightBarController;Lcom/android/systemui/statusbar/policy/KeyguardStateController;Lcom/android/systemui/keyguard/ScreenLifecycle;Lcom/android/systemui/qs/customize/TileQueryHelper;Lcom/android/internal/logging/UiEventLogger;)V
+
+    return-object v8
+.end method
+
+.method public createQSPanel()Lcom/android/systemui/qs/QSPanel;
+    .locals 9
+
+    .line 4827
+    new-instance v8, Lcom/android/systemui/qs/QSPanel;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4829
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4831
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4832
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/dump/DumpManager;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4833
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/broadcast/BroadcastDispatcher;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4834
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$15000(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Lcom/android/systemui/qs/logging/QSLogger;
+
+    move-result-object v5
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4835
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$15100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Lcom/android/systemui/media/MediaHost;
+
+    move-result-object v6
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4836
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v7, p0
+
+    check-cast v7, Lcom/android/internal/logging/UiEventLogger;
+
+    move-object v0, v8
+
+    invoke-direct/range {v0 .. v7}, Lcom/android/systemui/qs/QSPanel;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/dump/DumpManager;Lcom/android/systemui/broadcast/BroadcastDispatcher;Lcom/android/systemui/qs/logging/QSLogger;Lcom/android/systemui/media/MediaHost;Lcom/android/internal/logging/UiEventLogger;)V
+
+    return-object v8
+.end method
+
+.method public createQsFooter()Lcom/android/systemui/qs/QSFooterImpl;
+    .locals 7
+
+    .line 4741
+    new-instance v6, Lcom/android/systemui/qs/QSFooterImpl;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4743
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4745
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4746
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/plugins/ActivityStarter;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4747
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$2600(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/statusbar/policy/UserInfoController;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4748
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$3500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v5, p0
+
+    check-cast v5, Lcom/android/systemui/statusbar/policy/DeviceProvisionedController;
+
+    move-object v0, v6
+
+    invoke-direct/range {v0 .. v5}, Lcom/android/systemui/qs/QSFooterImpl;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/plugins/ActivityStarter;Lcom/android/systemui/statusbar/policy/UserInfoController;Lcom/android/systemui/statusbar/policy/DeviceProvisionedController;)V
+
+    return-object v6
+.end method
+
+.method public createQsHeader()Lcom/android/systemui/qs/QuickStatusBarHeader;
+    .locals 10
+
+    .line 4726
+    new-instance v9, Lcom/android/systemui/qs/QuickStatusBarHeader;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4728
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4730
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4731
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$3200(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/statusbar/policy/NextAlarmController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4732
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$2100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/statusbar/policy/ZenModeController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4733
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$4700(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v5, v0
+
+    check-cast v5, Lcom/android/systemui/statusbar/phone/StatusBarIconController;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4734
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v6, v0
+
+    check-cast v6, Lcom/android/systemui/plugins/ActivityStarter;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4735
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$11400(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v7, v0
+
+    check-cast v7, Lcom/android/systemui/statusbar/CommandQueue;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4736
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$13900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v8, p0
+
+    check-cast v8, Lcom/android/systemui/util/RingerModeTracker;
+
+    move-object v0, v9
+
+    invoke-direct/range {v0 .. v8}, Lcom/android/systemui/qs/QuickStatusBarHeader;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/statusbar/policy/NextAlarmController;Lcom/android/systemui/statusbar/policy/ZenModeController;Lcom/android/systemui/statusbar/phone/StatusBarIconController;Lcom/android/systemui/plugins/ActivityStarter;Lcom/android/systemui/statusbar/CommandQueue;Lcom/android/systemui/util/RingerModeTracker;)V
+
+    return-object v9
+.end method
+
+.method public createQuickQSPanel()Lcom/android/systemui/qs/QuickQSPanel;
+    .locals 9
+
+    .line 4841
+    new-instance v8, Lcom/android/systemui/qs/QuickQSPanel;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4843
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideContextFactory;->proxyProvideContext(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/content/Context;
+
+    move-result-object v1
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->viewAttributeProvider:Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;
+
+    .line 4845
+    invoke-static {v0}, Lcom/android/systemui/util/InjectionInflationController_ViewAttributeProvider_ProvideAttributeSetFactory;->proxyProvideAttributeSet(Lcom/android/systemui/util/InjectionInflationController$ViewAttributeProvider;)Landroid/util/AttributeSet;
+
+    move-result-object v2
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4846
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1300(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v3, v0
+
+    check-cast v3, Lcom/android/systemui/dump/DumpManager;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4847
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$1500(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    move-object v4, v0
+
+    check-cast v4, Lcom/android/systemui/broadcast/BroadcastDispatcher;
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4848
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$15000(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Lcom/android/systemui/qs/logging/QSLogger;
+
+    move-result-object v5
+
+    iget-object v0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object v0, v0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4849
+    invoke-static {v0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$15100(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Lcom/android/systemui/media/MediaHost;
+
+    move-result-object v6
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl$ViewInstanceCreatorImpl;->this$1:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;
+
+    iget-object p0, p0, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent$ViewCreatorImpl;->this$0:Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;
+
+    .line 4850
+    invoke-static {p0}, Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;->access$12900(Lcom/android/systemui/tv/DaggerTvSystemUIRootComponent;)Ljavax/inject/Provider;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljavax/inject/Provider;->get()Ljava/lang/Object;
+
+    move-result-object p0
+
+    move-object v7, p0
+
+    check-cast v7, Lcom/android/internal/logging/UiEventLogger;
+
+    move-object v0, v8
+
+    invoke-direct/range {v0 .. v7}, Lcom/android/systemui/qs/QuickQSPanel;-><init>(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/android/systemui/dump/DumpManager;Lcom/android/systemui/broadcast/BroadcastDispatcher;Lcom/android/systemui/qs/logging/QSLogger;Lcom/android/systemui/media/MediaHost;Lcom/android/internal/logging/UiEventLogger;)V
+
+    return-object v8
+.end method

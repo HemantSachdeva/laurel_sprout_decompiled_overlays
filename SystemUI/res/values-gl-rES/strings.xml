@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">A túa pegada dixital está activada agora. Úsaa para desbloquear o dispositivo, ou introduce o contrasinal.</string>
+    <string name="fingerprint_enter_second_psw_msg">Introduce o contrasinal do segundo espazo despois de reiniciar o dispositivo para poder usar o recoñecemento de pegada dixital</string>
+    <string name="fingerprint_enter_second_psw_title">Introduce o contrasinal do segundo espazo</string>
+    <string name="fingerprint_not_identified_msg">Demasiados intentos errados. Introduce o contrasinal agora ou trata de usar a túa pegada dixital nuns segundos.</string>
+    <string name="fingerprint_not_identified_msg_lock">Demasiados intentos errados. Introduce o contrasinal agora.</string>
+    <string name="fingerprint_not_identified_title">Insire o contrasinal</string>
+    <string name="fingerprint_try_again_msg">Non se puido verificar a pegada dixital. Téntao de novo.</string>
+    <string name="fingerprint_try_again_text">Tentar de novo</string>
+    <string name="fpod_fingerprint_not_recognized">Non se puido desbloquear. Téntao de novo.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">Preme un pouco máis forte</string>
+    <string name="fpod_try_again">Tentar de novo</string>
+    <string name="input_password_after_72_hours_timeout_msg">Non usaches o teu contrasinal durante ao menos 72 horas. Introduce o teu contrasinal.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Non se pode cambiar entre espazos durante unha chamada</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">Non usaches o teu contrasinal durante ao menos 72 horas. Debuxa o teu patrón.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">Non usaches o teu contrasinal durante ao menos 72 horas. Introduce o teu PIN.</string>
+    <string name="kg_face_unlock_liveness">Non se puido detectar a cara</string>
+    <string name="kg_face_unlock_not_found">Non se puido detectar a cara</string>
+    <string name="kg_face_unlock_not_matching">Non se te puido recoñecer</string>
+    <string name="kg_face_unlock_open_eyes">Abre os ollos</string>
+</resources>

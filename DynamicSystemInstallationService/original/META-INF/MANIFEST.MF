@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: AndroidManifest.xml
+SHA-256-Digest: Wf4blJVbM+I69QY+xgEO/PjjHvB2Vptb/3/IwnRu5Uo=
+
+Name: resources.arsc
+SHA-256-Digest: rp7RydrNEcN3si0ovb71rwLWuHLi69Mmm+wRpGoKHv4=
+
+Name: classes.dex
+SHA-256-Digest: m/61b6NdZx3kn0PDply7RSCclsZJ/FvuOGWQVlrKcnA=
+
+Name: res/drawable/ic_system_update_googblue_24dp.xml
+SHA-256-Digest: kMs0CSmWKrUorBzR8aFuk+BNwO6EwKE9PPYG5zRAYH0=
+

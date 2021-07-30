@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Tất cả %1$d ứng dụng</item>
+        <item quantity="one">1 ứng dụng</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Đã chọn %1$d ứng dụng</item>
+        <item quantity="one">Đã chọn 1 ứng dụng</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">Bạn có thể khôi phục %1$d ứng dụng. Hãy chọn một vài ứng dụng hoặc khôi phục tất cả.</item>
+        <item quantity="one">Bạn có thể khôi phục %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d liên hệ trên thiết bị</item>
+        <item quantity="one">1 liên hệ trên thiết bị</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d liên hệ trên SIM và thiết bị</item>
+        <item quantity="one">%1$d liên hệ trên SIM và thiết bị</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d liên hệ trên SIM</item>
+        <item quantity="one">1 liên hệ trên SIM</item>
+    </plurals>
+</resources>

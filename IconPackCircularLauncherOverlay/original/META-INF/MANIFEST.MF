@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: res/drawable/ic_smartspace_preferences.xml
+SHA-256-Digest: ybTAvn386DFZ1qF6cmWKzET13K5dltqWAocm4a7gUKY=
+
+Name: res/drawable/ic_install_no_shadow.xml
+SHA-256-Digest: 0PGjRmO2wZSZSGmDrWOyAKyX+o/yvbQBPqaTfG0t57c=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: d7A3DkOg01sgWlnMq8OdfPTX/ohalGMX3kV+Q5KF4Es=
+
+Name: res/drawable/ic_split_screen.xml
+SHA-256-Digest: gRDf6SGmPd2LvXGpe1nzDc2JbEeph45GXTmoUmKyWjw=
+
+Name: res/drawable/ic_widget.xml
+SHA-256-Digest: CAKNwLkBsq+qk7o3621GdFhnWSH1OYeQfhc7yxgRQwg=
+
+Name: res/drawable/ic_screenshot.xml
+SHA-256-Digest: 1+GC4Zy2i6MMG/t+0omA4HgLytTv74SJVDbM/6kc5gY=
+
+Name: res/drawable/ic_select.xml
+SHA-256-Digest: ELYXL+CwaCmqSQLEVwnfuM8B+gagdIZDNKpnOhAni8A=
+
+Name: res/drawable/ic_remove_no_shadow.xml
+SHA-256-Digest: hzhr9zGxUHupQBnsdk0n/4TSHQQuCyLjMOe08FiYltY=
+
+Name: res/drawable/ic_palette.xml
+SHA-256-Digest: jehsBwkySuH0pjzOFY8c5ehy1KVAwnxaLSxJq1/shPk=
+
+Name: res/drawable/ic_warning.xml
+SHA-256-Digest: teiYokPd3NgH1k1SuP6mrXAI4ipw+k3KKoyCUJT+mCU=
+
+Name: res/drawable/ic_share.xml
+SHA-256-Digest: ROoHuBZIfkGogsoK0dSX8fOy4F4rqK+kSS5YNkpo8qk=
+
+Name: res/drawable/ic_pin.xml
+SHA-256-Digest: p76Kz5jgZEleFN/L+zNXFNlqkBdKhtNcoYkR++XVJJQ=
+
+Name: res/drawable/ic_corp_off.xml
+SHA-256-Digest: w2e/gWbnV3UsekuJXFzX56gLzIZ0lJKF21/WI6Ov9aE=
+
+Name: res/drawable/ic_hourglass_top.xml
+SHA-256-Digest: daOyjtlGDDxTsdPVvuX5EmAX5SOKUFYXi/ZgkG10RcU=
+
+Name: res/drawable/ic_info_no_shadow.xml
+SHA-256-Digest: xwGGAqSQq8sKgJ7Z00nqFg2M8WknanMo1o/+CJmPCXM=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA-256-Digest: xcyjZgqJ0dLhYLlym/oDs8o7FBX86Tv6AbU2TYV06DY=
+
+Name: res/drawable/ic_uninstall_no_shadow.xml
+SHA-256-Digest: qChmLtD2a37arRGz85DkQlGucupqFAVBD7BvwCgW9ow=
+
+Name: resources.arsc
+SHA-256-Digest: rS9UI/wwRjZFL7icuRw9AWshEsCB0UFkqdIek0d6D1k=
+
+Name: res/drawable/ic_corp.xml
+SHA-256-Digest: OuXJsBgaawttV6ijgMPHM4U+G0cW06ndCi7/VP6F738=
+
+Name: res/drawable/ic_setting.xml
+SHA-256-Digest: Ykj2n62TVzYTW1cs5VMoN9IqdSLuh0TSZVyBw5e1xmc=
+

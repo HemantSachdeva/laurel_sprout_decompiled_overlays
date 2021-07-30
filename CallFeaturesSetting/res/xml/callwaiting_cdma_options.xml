@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/call_waiting_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:phone="http://schemas.android.com/apk/res/com.android.phone">
+    <PreferenceScreen android:title="@string/CFActivate" android:key="button_cw_act_key">
+        <intent android:targetPackage="com.android.server.telecom" android:action="android.intent.action.CALL_PRIVILEGED" android:targetClass="com.android.server.telecom.components.UserCallActivity" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/CFDeactivate" android:key="button_cw_deact_key">
+        <intent android:targetPackage="com.android.server.telecom" android:action="android.intent.action.CALL_PRIVILEGED" android:targetClass="com.android.server.telecom.components.UserCallActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

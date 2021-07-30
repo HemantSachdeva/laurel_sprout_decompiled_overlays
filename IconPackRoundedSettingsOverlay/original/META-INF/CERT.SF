@@ -1,0 +1,248 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: K+kNJX6bDSiJ5uuhE1jJr0XJKrL8TxSxmKUq+iPRAkE=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/ic_settings_enable.xml
+SHA-256-Digest: w2SEdqk0NrZLr74TLxjvzzgE61upwEgY0s5AWLjQ9oI=
+
+Name: res/drawable/ic_scan_24dp.xml
+SHA-256-Digest: KiplgoUmVzHAb7yvrpMECxZdDaWZ3l0FACEDoCyUmu8=
+
+Name: res/drawable/ic_content_copy_grey600_24dp.xml
+SHA-256-Digest: +DhlUcLEIj3ZIRta+1VxzydE1Y7wy8qzageke/nbaB0=
+
+Name: res/drawable/ic_settings_accounts.xml
+SHA-256-Digest: p0tPXqjEuVjJKyHFGCRMXM+vauvtiUCCXXFf/Z7HzVQ=
+
+Name: res/drawable/ic_vpn_key.xml
+SHA-256-Digest: 5Xy9M/nVWGFIBFlE5jGtjLywbYcp12ZS7AlJGWaEzC8=
+
+Name: res/drawable/ic_notifications.xml
+SHA-256-Digest: xtRKirKIE48wAKYg3hbL0/z+mPRF8PcVeHzn/O8svZI=
+
+Name: res/drawable/ic_call_24dp.xml
+SHA-256-Digest: E9tCt62pysl7pSX+RoUubI13xRtxUGa5WRDt92ejr6M=
+
+Name: res/drawable/ic_volume_ringer_vibrate.xml
+SHA-256-Digest: ra75vqpDUQ9jP3aUtHvnmIRauB7e/3pz3zpVhzp4S44=
+
+Name: res/drawable/ic_cellular_off.xml
+SHA-256-Digest: PXF+dSnMjlgcrbr2uxZimVyQu081pE9JKxz8O/n0B34=
+
+Name: res/drawable/ic_media_stream_off.xml
+SHA-256-Digest: CLJP58hKd4T7ywFpo6BatnJn0Jvnu6vKlIWFW4TrsxY=
+
+Name: res/drawable/ic_expand_less.xml
+SHA-256-Digest: IHdAdoMmBSoU6fTVq1CfYKpVsJnK4nVGW9FVJOQPyf8=
+
+Name: res/drawable/ic_photo_library.xml
+SHA-256-Digest: uw968z50bUJZhXZczpBkfOp9zW5sV52BAdyJjNO6rwU=
+
+Name: res/drawable/ic_chevron_right_24dp.xml
+SHA-256-Digest: kil75TecbN9H3gvheGmu7QMxOcJlisgGcpxygkF/ipM=
+
+Name: res/drawable/ic_friction_lock_closed.xml
+SHA-256-Digest: dkyyigIkrMKSTPFjmsn0AYSdjuaZMan45Vni3ZPt5Cw=
+
+Name: res/drawable/ic_data_saver.xml
+SHA-256-Digest: OREd0BDE4tpgHhtN2HE87WZPUWKuHrAzgVKGzm13hN4=
+
+Name: res/drawable/ic_info_outline_24.xml
+SHA-256-Digest: v8ePEsDWprKhd/ijpMKiyNrV4goVYmJt9G6UA8OD0z4=
+
+Name: res/drawable/drag_handle.xml
+SHA-256-Digest: EGlRX9MBQpvUzA6sgZ2B9ZWpjAxYRt0hkDH4I9zWP5M=
+
+Name: res/drawable/ic_battery_status_maybe_24dp.xml
+SHA-256-Digest: ka9mHWA5Kz7u0wrcypMWmZrXL6Zx5jO+3idpjuE8DJQ=
+
+Name: res/drawable/ic_settings_data_usage.xml
+SHA-256-Digest: VdkGAWDByvTcJEE4Ju49niJHMOCpbHIKofzWa1siNhM=
+
+Name: res/drawable/ic_android.xml
+SHA-256-Digest: nnfmFqXn2+cgMG6SCZ3Zn9k/DICAjJISXVPEe13GSE0=
+
+Name: res/drawable/ic_sync_problem_24dp.xml
+SHA-256-Digest: IIQtpydBTNga53sYZbXGYQnVB+0D5F5JJnOddL7yqA4=
+
+Name: res/drawable/ic_storage.xml
+SHA-256-Digest: 1qA8p/8AUG/5g21I11MgUK7esqsLiFkDKH8V1dExGQY=
+
+Name: res/drawable/ic_arrow_back.xml
+SHA-256-Digest: uPIb0eiDTn23GWxaTaXatSWLJdwcHZSixdVToBKSnxs=
+
+Name: res/drawable/ic_gray_scale_24dp.xml
+SHA-256-Digest: D6W/SY26mJ17VuFcZ+0XT9tHEbqnFBP8EunuP+qq/Qk=
+
+Name: res/drawable/ic_local_phone_24_lib.xml
+SHA-256-Digest: oosFaTerB1lG+CKIzI1+KEmPNGaq1P00bxVhO86IwQQ=
+
+Name: res/drawable/ic_suggestion_night_display.xml
+SHA-256-Digest: GMBHOSIr+mvjS2c/orvXwAEfbdWeLxSKXa48OdFSMA4=
+
+Name: res/drawable/ic_settings_sim.xml
+SHA-256-Digest: SwU3RTCBV1pVUP7toHkqk40XkvTiu2rvkxAvb3xirto=
+
+Name: res/drawable/ic_apps.xml
+SHA-256-Digest: ptgCYSzu+ExoH7u5uB/3d8TULnqOUCKJXjbHvrYr5NM=
+
+Name: res/drawable/ic_settings_date_time.xml
+SHA-256-Digest: 08Lhunz7I+26q7FgUV+fp3HplS8dbouo9/NtDBR7a60=
+
+Name: res/drawable/ic_settings_night_display.xml
+SHA-256-Digest: B1Axu0XwIOAYtjGZKfak3q2RZ+wN7N5QRX/tSsh6VhM=
+
+Name: res/drawable/ic_settings_multiuser.xml
+SHA-256-Digest: FVAWZqOkzTGXBt3A9n+FfItfw5ZV5uwBNveBQ8BzwdY=
+
+Name: res/drawable/ic_expand_more_inverse.xml
+SHA-256-Digest: yeOwi40nNZTCP4FYWtGt91f8PsiIgcNnhJLBrII87yg=
+
+Name: res/drawable/ic_local_movies.xml
+SHA-256-Digest: s13PyFonsmnGhuc7fGNXwgFj4tEZcOGeCNeqEIV+zMw=
+
+Name: res/drawable/ic_airplanemode_active.xml
+SHA-256-Digest: eES8AiXmEywWJr5hxN5I/cqw27xjc9qYygFf/m0hve4=
+
+Name: res/drawable/ic_delete.xml
+SHA-256-Digest: KYGYZ/FrU0tBnFNIOHog3wXbjN2JAis/zHd2WR/MwWY=
+
+Name: res/drawable/ic_devices_other.xml
+SHA-256-Digest: W8zhpxPwHM6/2+Mqy6jXyRwLMHGl/HEQzxO96baYG9M=
+
+Name: resources.arsc
+SHA-256-Digest: SWKFCHSFCWUIdEbZpo9YkC5mT48lK9sm80lCMNArang=
+
+Name: res/drawable/ic_find_in_page_24px.xml
+SHA-256-Digest: IS5xbVpi0PQX3qKiam0Y4DjfDkqI4ghFlP6o8KrM3bM=
+
+Name: res/drawable/ic_battery_charging_full.xml
+SHA-256-Digest: IRgcG7Mxu7mf+8nPmZ9vPqe+6w7fM/Mk/chRb4CPNzU=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: d9TVXjQRmcuTjobCjPGVTwMmL6WSsu9pQpABenPoMcE=
+
+Name: res/drawable/ic_arrow_down_24dp.xml
+SHA-256-Digest: eKvuT04suqzkxd4TZOZuwK2FVUmu7ZVBr+awsFEIAZo=
+
+Name: res/drawable/ic_help_actionbar.xml
+SHA-256-Digest: gaN6HbER1/3ICMwr4cUk84+TJLsINtKanPxhPR6ruhE=
+
+Name: res/drawable/ic_settings_print.xml
+SHA-256-Digest: lZYlrh+U0BuBeAQTMZsb9eHxJ6pNYZ+SP9x3UhOqiB4=
+
+Name: res/drawable/ic_settings_backup.xml
+SHA-256-Digest: 7q/gpTZGBjc7bxWgPS8jh+R5YzURE3GgzPv2BzNZWgE=
+
+Name: res/drawable/ic_network_cell.xml
+SHA-256-Digest: z+zF1kd/9E+PuXiGRxFaJT5r2MdsWWbdsns728Pvs4U=
+
+Name: res/drawable/ic_settings_display_white.xml
+SHA-256-Digest: tM8j9dZOT2EW5AymQLHJWew8BZXEfM4KGoq8pAq1nWQ=
+
+Name: res/drawable/ic_lock.xml
+SHA-256-Digest: NhBVWHuV4Wl/U503xpjpBfj146xyqa3oIkj4K0RN2jk=
+
+Name: res/drawable/ic_settings_home.xml
+SHA-256-Digest: /bF121/Zrkd2AHOwYQNUHM6WZPpbVlQhjIvuUGyI0FY=
+
+Name: res/drawable/ic_wifi_tethering.xml
+SHA-256-Digest: Rt1jR4blY21bV8zoPmIjsN6CgOftYJDYRL94XXfEyT0=
+
+Name: res/drawable/ic_settings_battery_white.xml
+SHA-256-Digest: QLTUdQlflVd4rGY4oq9NbbBzVk2foKnLz/mkoFiaLKk=
+
+Name: res/drawable/ic_eject_24dp.xml
+SHA-256-Digest: Ub2nHgEN5D8lK8xtIwPyAAn2wcbUpVqX7oGFqCn5WzQ=
+
+Name: res/drawable/ic_settings_accessibility.xml
+SHA-256-Digest: A0byZg72136xD5jVAZtLRenGwc+Hdq2olWjnX/zg4og=
+
+Name: res/drawable/ic_sync.xml
+SHA-256-Digest: ihwy4oxOh2bR+ckcPfe6X+06L9ZmyU+jzYGPVgl7OPc=
+
+Name: res/drawable/ic_add_24dp.xml
+SHA-256-Digest: HuiuUavD1UE2xRoSDyMS1FPW7VagvabGZCk4z6kqvis=
+
+Name: res/drawable/ic_headset_24dp.xml
+SHA-256-Digest: pVJriswRFNS3p+ubPuTpY+QT7ggyH+vCC3PjtdR4dx0=
+
+Name: res/drawable/ic_do_not_disturb_on_24dp.xml
+SHA-256-Digest: /ySZxIB64RJTD/0eUuoPwEBCxJeebYrsD4U0/NjfeXA=
+
+Name: res/drawable/ic_help.xml
+SHA-256-Digest: LAF0VKvcvQ8CAG+cY1d4e+GKCvZ5G772ApFl+CmaLMQ=
+
+Name: res/drawable/ic_settings_open.xml
+SHA-256-Digest: r1uEt4QVMNhLA/iBGaozKLHlYRuJbbXgt89zOuCCyXU=
+
+Name: res/drawable/ic_settings_wireless.xml
+SHA-256-Digest: Y+Ab5Al45pe3E3JpVPQE4vD2JAbW42916AdzoO1xtwY=
+
+Name: res/drawable/ic_cast_24dp.xml
+SHA-256-Digest: ViOJlrjmBcBgUTpfYiliRd+fZj8BRHlq26xUhmmt3yA=
+
+Name: res/drawable/ic_phone_info.xml
+SHA-256-Digest: HJ7Df+ORMEKyfhFwKbHTl39itUiPfljPFJpHT6/Vz5k=
+
+Name: res/drawable/ic_search_24dp.xml
+SHA-256-Digest: zFw9JoNeuLy5n57akRZDvWjPWc3BIufD3VvlLiNjNIY=
+
+Name: res/drawable/ic_settings_security_white.xml
+SHA-256-Digest: yECbPtNQUKOpw7Q92eRUYdCxpbKowE6zJLMZkhu0Qvo=
+
+Name: res/drawable/ic_settings_privacy.xml
+SHA-256-Digest: 4MNlnPAkAJyIxqWl1Ji8ZqCp/zgRHc1mHTOCDRR8j5A=
+
+Name: res/drawable/ic_volume_up_24dp.xml
+SHA-256-Digest: j/VHjhr8mSL+wPUs2KGPaiPpOCy7H0/srvLXME5Okpk=
+
+Name: res/drawable/ic_devices_other_32dp.xml
+SHA-256-Digest: zsFB9Srg7SmtmMuYzMP2l/wE0xuQjCdbcYVgDyDHY94=
+
+Name: res/drawable/ic_settings_system_dashboard_white.xml
+SHA-256-Digest: W875/giGUqzyByxHy+EOr8q/k3Pd7FMwhPQNZa4VGFg=
+
+Name: res/drawable/ic_folder_vd_theme_24.xml
+SHA-256-Digest: iMAzm7+znl5df94KE3dypnHHzo55TrvJf7vSCJ33oiw=
+
+Name: res/drawable/ic_settings_location.xml
+SHA-256-Digest: /VUOzt6iSBYtKyDyORD264S6QPOpjqaFpCUDvxoFa40=
+
+Name: res/drawable/ic_settings_accent.xml
+SHA-256-Digest: dKAXLFroKF3933iijihoCOEF7wZTEa+8opY1f9JPTFg=
+
+Name: res/drawable/ic_battery_status_good_24dp.xml
+SHA-256-Digest: Kb0boI5Ky7Onre0D3MzcWjPR7/Y16yZ6+3xQY3LSihk=
+
+Name: res/drawable/ic_settings_disable.xml
+SHA-256-Digest: x5s0GtCF5OuQilRlt2dHyAsCQvcmaYUL4SoB8RYUwkw=
+
+Name: res/drawable/ic_cancel.xml
+SHA-256-Digest: S4WjXyoC0ENVzAcDY0EYOET0+/uRomhiTy0Jv54LEoA=
+
+Name: res/drawable/ic_media_stream.xml
+SHA-256-Digest: zuGlY0ORvsxseEGMzyI8PfUXNQBdQ16ncIj0Cni7KZU=
+
+Name: res/drawable/ic_homepage_search.xml
+SHA-256-Digest: UDhi565qh387zaboO4TISCoLwTe4ZFJFDYcbXZEdw3w=
+
+Name: res/drawable/ic_system_update.xml
+SHA-256-Digest: sJo0vgQ6dJ4UX6YqfQvL4fnEhUEWWydcdN3eGJcpPxg=
+
+Name: res/drawable/ic_settings_delete.xml
+SHA-256-Digest: 5BgJRaMl3Oh9LvKYncGHQw8V11190JJf46pB4WkM9nE=
+
+Name: res/drawable/ic_videogame_vd_theme_24.xml
+SHA-256-Digest: Frz69kRT4V+Ij/bEb2NfHqmYtmRrxDKVNDSGDYgxonk=
+
+Name: res/drawable/ic_notifications_off_24dp.xml
+SHA-256-Digest: DTPbu/t8Y5/Oj4N4nySZ3mlkXNht4eOagSvgXyr/A94=
+
+Name: res/drawable/ic_storage_white.xml
+SHA-256-Digest: 0aDnZATsBUltUfp2CNd8Omhqj8sQasLMi1edtVj4uck=
+
+Name: res/drawable/ic_settings_language.xml
+SHA-256-Digest: MTETsLDAFevXpdhdAj69HgB8XWhppn+T3uf/pXAoeD4=
+

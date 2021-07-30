@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:duration="283" android:startOffset="0" android:valueFrom="0.17" android:valueTo="0.17" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:duration="1333" android:startOffset="283" android:valueFrom="0.17" android:valueTo="0.06" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:duration="1183" android:startOffset="1617" android:valueFrom="0.06" android:valueTo="0.14" android:valueType="floatType" android:propertyName="trimPathEnd" />
+</set>

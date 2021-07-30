@@ -1,0 +1,34 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: GoogleRestore.apk
+compressionType: false
+doNotCompress:
+- classes.dex
+- resources.arsc
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/com.google.protobuf.GeneratedExtensionRegistryLoader
+- png
+- res/raw/com_google_android_apps_pixelmigrate_registration_info.binarypb
+- res/raw/com_google_android_apps_restore_registration_info.binarypb
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '29'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  stamp-cert-sha256: '8'
+  com/google/api/client/googleapis/google.jks: '0'
+  com/google/api/client/repackaged/org/apache/commons/codec/language/dmrules.txt: '0'
+  googledata/third_party/tz/jdk/tzdb.dat: '0'
+  org/codehaus/jackson/impl/VERSION.txt: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '9568'
+  versionName: 1.0.334154002

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="car_ui_activity_background">@color/car_ui_activity_background_color</item>
+    <item type="drawable" name="car_ui_icon_search_nav_icon">@drawable/car_ui_icon_arrow_back</item>
+    <item type="drawable" name="car_ui_preference_icon_chevron_disabled">@null</item>
+    <item type="drawable" name="car_ui_preference_icon_chevron_enabled">@null</item>
+    <item type="drawable" name="car_ui_toolbar_background">#e0000000</item>
+    <item type="drawable" name="car_ui_toolbar_search_close_icon">@drawable/car_ui_icon_close</item>
+    <item type="drawable" name="car_ui_toolbar_search_search_icon">@drawable/car_ui_icon_search</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: soong_zip
+
+Name: res/layout/confirm_restore.xml
+SHA-256-Digest: 142idb8tpwJyKOixe9IpyTe54LsN3ICAAMOEe/YdZSw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: EVlvWfgr5LbnnLsJ8t8cZg/I4Cz47WPCYhHfHzIqTkA=
+
+Name: res/layout/confirm_backup.xml
+SHA-256-Digest: 0m8h6hg3JpKfvtjy5IeMKNeFRoQZRLTuy/rCgfGfvWk=
+
+Name: resources.arsc
+SHA-256-Digest: PDsaWXj7s+CRsb5CcYkhM9f/uht0xH2+bR2NpfF+jps=
+
+Name: classes.dex
+SHA-256-Digest: AiLr6iXII3Dm2NO0m/kt70Vb7zxPvSi/ThyvzipbDtM=
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <ripple android:color="#ff2371cd">
+            <item android:id="@id/mask">
+                <color android:color="@color/car_white_1000" />
+            </item>
+        </ripple>
+    </item>
+    <item>
+        <ripple android:color="?colorControlHighlight">
+            <item android:id="@id/mask">
+                <color android:color="@color/car_white_1000" />
+            </item>
+        </ripple>
+    </item>
+</selector>

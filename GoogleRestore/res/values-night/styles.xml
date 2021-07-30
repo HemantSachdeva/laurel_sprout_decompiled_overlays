@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SudThemeGlif.DayNight" parent="@style/SudThemeGlif" />
+    <style name="SudThemeGlifV2.DayNight" parent="@style/SudThemeGlifV2" />
+    <style name="SudThemeGlifV3.DayNight" parent="@style/SudThemeGlifV3" />
+    <style name="SudThemeMaterial.DayNight" parent="@style/SudThemeMaterial" />
+</resources>

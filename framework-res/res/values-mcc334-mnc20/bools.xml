@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_pdp_reject_enable_retry">true</bool>
+</resources>

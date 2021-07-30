@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="com.android.backupconfirm" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="android.permission.CRYPT_KEEPER"/>
+    <application android:allowBackup="false" android:allowClearUserData="false" android:extractNativeLibs="true" android:permission="android.permission.CONFIRM_FULL_BACKUP" android:usesNonSdkApi="true">
+        <activity android:excludeFromRecents="true" android:exported="true" android:launchMode="singleTop" android:name=".BackupRestoreConfirmation" android:title="" android:windowSoftInputMode="stateAlwaysHidden"/>
+    </application>
+</manifest>

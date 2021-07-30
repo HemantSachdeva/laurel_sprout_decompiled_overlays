@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Alle %1$d apps</item>
+        <item quantity="one">%1$d app</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d apps er valgt</item>
+        <item quantity="one">%1$d app er valgt</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d apps kan gendannes. Vælg nogle stykker eller alle.</item>
+        <item quantity="one">%1$d app kan gendannes. Vælg den.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontakter på enheden</item>
+        <item quantity="one">%1$d kontakt på enheden</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d kontakter på enheden og SIM-kortet</item>
+        <item quantity="one">%1$d kontakt på enheden og SIM-kortet</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM-kontakter</item>
+        <item quantity="one">%1$d SIM-kontakt</item>
+    </plurals>
+</resources>

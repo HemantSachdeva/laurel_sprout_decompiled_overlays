@@ -1,0 +1,47 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: V5TeISHCt96wj/8cf2iOpVqxSzmGxz6Te8IKELsLxWE=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/ic_close_24px.xml
+SHA-256-Digest: KTQHJ3ZMNtOdG18cRoK+US49pUNYOxXNcMvpbQOFCsw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: F+DF6cT2JGRl8cnTKgZtYs/msgRx8qCBVzGRWJuodco=
+
+Name: res/drawable/ic_nav_wallpaper.xml
+SHA-256-Digest: HZ5glMkNolFu3ZHIcEaJy89did1o57x79rOB8Vw5RSw=
+
+Name: res/drawable/ic_add_24px.xml
+SHA-256-Digest: vqevFhEZIdLd4ZjHsufcLiTCzwCwgYzqyXC6EnTHC7s=
+
+Name: res/drawable/ic_nav_grid.xml
+SHA-256-Digest: 1BxaXPOAR4oV+mYlcK5S6dTvhMaxgPcVtFGAIpdyW7Q=
+
+Name: res/drawable/ic_wifi_24px.xml
+SHA-256-Digest: tLeve/TQIZq7FrjuKUwrY2tuzVnezrWEdgE6Va2lffs=
+
+Name: res/drawable/ic_font.xml
+SHA-256-Digest: nObLt3f/D4w7aseXrUGC939P4tmYUTslWdPU0sGf3TI=
+
+Name: res/drawable/ic_delete_24px.xml
+SHA-256-Digest: BEos86vuKx4VOFqEeCWmLRR4jf92u8+ApJouchSO/bE=
+
+Name: res/drawable/ic_nav_theme.xml
+SHA-256-Digest: 7pO38DztxK33GZnV+l4/qcI/K0keWvCmRDYzWibH1rs=
+
+Name: res/drawable/ic_colorize_24px.xml
+SHA-256-Digest: kG7oZVk4WdMya7xoiyygjmDTbdJXtn+JOEjmgsWsUSo=
+
+Name: res/drawable/ic_nav_clock.xml
+SHA-256-Digest: dCBC6h80RQ0a/LyXD3uE1btnhq8eas4Ne4QZykvdm3A=
+
+Name: resources.arsc
+SHA-256-Digest: TDxKOi2mUptAtOgK7MGERVBhzvww6fY66QfZ15HfGKY=
+
+Name: res/drawable/ic_shapes_24px.xml
+SHA-256-Digest: 9lzmB52xgLmVLUxuWnkPmKvGFDkCqEZtZqrfXbAEIjo=
+
+Name: res/drawable/ic_tune.xml
+SHA-256-Digest: cDHIokGqGoFcaocGO2iSjUlxop3jWG00pdYXDnYI/vY=
+

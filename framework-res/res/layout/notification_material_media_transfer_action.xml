@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/media_seamless_background" android:padding="4.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/media_seamless_image" android:layout_width="?^attr-private/notificationHeaderIconSize" android:layout_height="?^attr-private/notificationHeaderIconSize" android:src="@drawable/ic_media_seamless" />
+    <TextView android:textAppearance="?^attr-private/notificationHeaderTextAppearance" android:id="@id/media_seamless_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ext_media_seamless_action" android:paddingEnd="2.0dip" />
+</LinearLayout>

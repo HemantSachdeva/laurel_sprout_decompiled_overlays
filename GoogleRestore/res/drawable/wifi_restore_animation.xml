@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$wifi_restore_animation__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_22_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__1" />
+    <target android:name="_R_G_L_21_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__2" />
+    <target android:name="_R_G_L_20_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__3" />
+    <target android:name="_R_G_L_19_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__4" />
+    <target android:name="_R_G_L_18_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__5" />
+    <target android:name="_R_G_L_17_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__6" />
+    <target android:name="_R_G_L_16_G_D_0_P_0" android:animation="@drawable/$wifi_restore_animation__7" />
+    <target android:name="_R_G_L_15_G" android:animation="@drawable/$wifi_restore_animation__8" />
+    <target android:name="_R_G_L_14_G" android:animation="@drawable/$wifi_restore_animation__9" />
+    <target android:name="_R_G_L_13_G" android:animation="@drawable/$wifi_restore_animation__10" />
+    <target android:name="_R_G_L_12_G" android:animation="@drawable/$wifi_restore_animation__11" />
+    <target android:name="_R_G_L_11_G" android:animation="@drawable/$wifi_restore_animation__12" />
+    <target android:name="_R_G_L_10_G" android:animation="@drawable/$wifi_restore_animation__13" />
+    <target android:name="_R_G_L_9_G" android:animation="@drawable/$wifi_restore_animation__14" />
+    <target android:name="_R_G_L_8_G" android:animation="@drawable/$wifi_restore_animation__15" />
+    <target android:name="_R_G_L_7_G" android:animation="@drawable/$wifi_restore_animation__16" />
+    <target android:name="_R_G_L_6_G" android:animation="@drawable/$wifi_restore_animation__17" />
+    <target android:name="_R_G_L_5_G" android:animation="@drawable/$wifi_restore_animation__18" />
+    <target android:name="_R_G_L_4_G" android:animation="@drawable/$wifi_restore_animation__19" />
+    <target android:name="_R_G_L_3_G" android:animation="@drawable/$wifi_restore_animation__20" />
+    <target android:name="_R_G_L_2_G" android:animation="@drawable/$wifi_restore_animation__21" />
+    <target android:name="_R_G_L_1_G" android:animation="@drawable/$wifi_restore_animation__22" />
+    <target android:name="_R_G_L_0_G" android:animation="@drawable/$wifi_restore_animation__23" />
+    <target android:name="time_group" android:animation="@drawable/$wifi_restore_animation__24" />
+</animated-vector>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="@dimen/restore_item_vertical_padding" android:paddingBottom="@dimen/restore_item_vertical_padding" android:descendantFocusability="blocksDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SudItemContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="@dimen/google_min_touch_target_size" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:gravity="start" android:id="@id/dataflavor_suw_items_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="viewStart" style="@style/SudItemTitle" />
+            <TextView android:gravity="start" android:id="@id/dataflavor_suw_items_summary" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/sud_items_padding_bottom_extra" android:textAlignment="viewStart" style="@style/SudItemSummary" />
+        </LinearLayout>
+        <View android:id="@id/vertical_divider" android:background="?android:dividerVertical" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <CheckBox android:layout_gravity="end|center" android:id="@id/item_checkbox" android:layout_width="@dimen/google_min_touch_target_size" android:layout_height="@dimen/google_min_touch_target_size" android:button="@null" android:drawableEnd="?android:listChoiceIndicatorMultiple" android:layout_marginStart="@dimen/list_item_checkbox_padding_start" />
+</LinearLayout>

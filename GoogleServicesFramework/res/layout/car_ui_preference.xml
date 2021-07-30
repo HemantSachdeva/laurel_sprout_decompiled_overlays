@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="carUiPreference" android:background="?android:selectableItemBackground" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@android:id/icon" android:layout_width="@dimen/car_ui_preference_icon_size" android:layout_height="@dimen/car_ui_preference_icon_size" android:layout_marginTop="@dimen/car_ui_preference_content_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_content_margin_bottom" android:scaleType="fitCenter" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/car_ui_preference_icon_margin_end" android:layout_alignParentStart="true" style="@style/Preference.CarUi.Icon" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/car_ui_preference_content_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_content_margin_bottom" android:layout_centerVertical="true" android:layout_toStartOf="@android:id/widget_frame" android:layout_toEndOf="@android:id/icon">
+        <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceTitle" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceSummary" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <FrameLayout android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+</RelativeLayout>

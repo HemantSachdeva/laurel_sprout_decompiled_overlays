@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: res/drawable/ic_smartspace_preferences.xml
+SHA-256-Digest: idMwoCLRWCFWLbpAYJ4+rsqcO6VnYyZEoGAfMTv8yQs=
+
+Name: res/drawable/ic_install_no_shadow.xml
+SHA-256-Digest: HaiKKwhzHqx2ELvF/V13phrjXcyuyHclUrpMKQ+NDqc=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: q2DPa2y2pM5tMzMmtvWtbrOAVjMGKqPpOsok9KUyam8=
+
+Name: res/drawable/ic_split_screen.xml
+SHA-256-Digest: a/Xw8sfargqGFROS4xK7bamnKK9kw0lzAZryhCiz7T0=
+
+Name: res/drawable/ic_widget.xml
+SHA-256-Digest: gbclyTNZvzJktF3F493UHABlBOL0+ketRwEdP2wAJqI=
+
+Name: res/drawable/ic_screenshot.xml
+SHA-256-Digest: 4Vg8f0XTpMNYxpfVYGlYixbkYM8/QMQMExb55EmhSM4=
+
+Name: res/drawable/ic_select.xml
+SHA-256-Digest: cXwkJh8sOYS5gKUuiWkUzC7td9UktrdwiqguYKFKAjM=
+
+Name: res/drawable/ic_remove_no_shadow.xml
+SHA-256-Digest: OoHyliU6JqhTUBkOkcVhRdSBmmB9tBrxq3fqEgXC4M0=
+
+Name: res/drawable/ic_palette.xml
+SHA-256-Digest: jehsBwkySuH0pjzOFY8c5ehy1KVAwnxaLSxJq1/shPk=
+
+Name: res/drawable/ic_warning.xml
+SHA-256-Digest: 3EV28UDGhZdCKMEZnzxTPIXLUtIB73EfbQnwr0JApsU=
+
+Name: res/drawable/ic_share.xml
+SHA-256-Digest: AMxOBLgqmb9cwX76jkwTZxsFq4u0IUJfNj1Sj78FkjQ=
+
+Name: res/drawable/ic_pin.xml
+SHA-256-Digest: ftqFUtc7Jexu991IUGPc/kRSyT0JsGjgtZF4O69Ak2I=
+
+Name: res/drawable/ic_corp_off.xml
+SHA-256-Digest: I7YWgbHJddgCSX4JJEwURPqnnHJOqaXDwoedzt1RgRU=
+
+Name: res/drawable/ic_hourglass_top.xml
+SHA-256-Digest: 9Aha86fumonORltOydugg+IeqbyJct8dKTlVX8LzzJk=
+
+Name: res/drawable/ic_info_no_shadow.xml
+SHA-256-Digest: gb9NragThgJlI6Hn67gB59WlkZTdar/OAYtpyaGIpbc=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA-256-Digest: 634iB55NfaML/BTjsQZm60T3GMjnAIRUeo8R7pbvjNc=
+
+Name: res/drawable/ic_uninstall_no_shadow.xml
+SHA-256-Digest: 5h0EyUENRAXWVof2rFkf0CotCu9xNZejaGJVkn2bdfI=
+
+Name: resources.arsc
+SHA-256-Digest: RRYoxmgjllh3bXOhPhdX1c3MSw2kO3iGA4YQzvJkiCQ=
+
+Name: res/drawable/ic_corp.xml
+SHA-256-Digest: 8em2285OqbZmO81Q3XWW9hMoipS5iqTqhqVXpjgWtTs=
+
+Name: res/drawable/ic_setting.xml
+SHA-256-Digest: HFBy8yBHQSQQ4h09dkGQnseMbzqQpzamD1nfGBYksRg=
+

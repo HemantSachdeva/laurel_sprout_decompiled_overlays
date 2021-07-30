@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_horizontal" android:id="@id/seek_bar_text_top" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Preference.CarUi.DialogSeekBarPreference.TopText" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/seek_bar_text_left" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Preference.CarUi.DialogSeekBarPreference.LeftText" />
+        <SeekBar android:id="@id/seek_bar" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/Preference.CarUi.DialogSeekBarPreference.Seekbar" />
+        <TextView android:id="@id/seek_bar_text_right" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Preference.CarUi.DialogSeekBarPreference.RightText" />
+    </LinearLayout>
+</LinearLayout>

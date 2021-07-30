@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Svih %1$d aplikacija</item>
+        <item quantity="one">Svih %1$d aplikacija</item>
+        <item quantity="few">Sve %1$d aplikacije</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">Izabrano je %1$d aplikacija</item>
+        <item quantity="one">Izabrana je %1$d aplikacija</item>
+        <item quantity="few">Izabrane su %1$d aplikacije</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d aplikacija je dostupno za vraćanje. Izaberite nekoliko ili ih vratite sve.</item>
+        <item quantity="one">%1$d aplikacija je dostupna za vraćanje. Izaberite nekoliko ili ih vratite sve.</item>
+        <item quantity="few">%1$d aplikacije su dostupne za vraćanje. Izaberite nekoliko ili ih vratite sve.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d kontakata na uređaju</item>
+        <item quantity="one">%1$d kontakt na uređaju</item>
+        <item quantity="few">%1$d kontakta na uređaju</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d kontakata na uređaju i SIM kartici</item>
+        <item quantity="one">%1$d kontakt na uređaju i SIM kartici</item>
+        <item quantity="few">%1$d kontakta na uređaju i SIM kartici</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM kontakata</item>
+        <item quantity="one">%1$d SIM kontakt</item>
+        <item quantity="few">%1$d SIM kontakta</item>
+    </plurals>
+</resources>

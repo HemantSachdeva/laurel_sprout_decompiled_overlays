@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="integer" name="config_navBarInteractionMode" id="0x7f010000" />
+    <public type="string" name="navigation_bar_mode_title" id="0x7f020000" />
+</resources>

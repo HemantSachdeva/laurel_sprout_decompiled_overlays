@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/autofill_save" android:background="?colorBackground" android:paddingTop="@dimen/autofill_save_outer_top_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/autofill_save_outer_top_margin" android:elevation="@dimen/autofill_elevation"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/autofill_save_inner_padding" android:paddingEnd="@dimen/autofill_save_inner_padding">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/autofill_save_icon" android:layout_width="@dimen/autofill_save_icon_size" android:layout_height="@dimen/autofill_save_icon_size" android:scaleType="fitStart" />
+                <TextView android:textAppearance="@style/TextAppearance.DeviceDefault.Subhead" android:id="@id/autofill_save_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/autofill_save_title" android:layout_weight="1.0" android:paddingStart="@dimen/autofill_save_title_start_padding" />
+            </LinearLayout>
+            <com.android.server.autofill.ui.CustomScrollView android:id="@id/autofill_save_custom_subtitle" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/autofill_save_scroll_view_top_margin" />
+        </LinearLayout>
+        <com.android.internal.widget.ButtonBarLayout android:layout_gravity="end" android:orientation="horizontal" android:padding="@dimen/autofill_save_button_bar_padding" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <Space android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <Button android:id="@id/autofill_save_no" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/autofill_save_no" style="?buttonBarButtonStyle" />
+            <Button android:id="@id/autofill_save_yes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/autofill_save_yes" style="@style/Widget.DeviceDefault.Button.Colored" />
+        </com.android.internal.widget.ButtonBarLayout>
+    </LinearLayout>
+</LinearLayout>

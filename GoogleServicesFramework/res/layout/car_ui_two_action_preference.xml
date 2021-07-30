@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="start|center" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/car_ui_preference_content_margin_top" android:paddingBottom="@dimen/car_ui_preference_content_margin_bottom" android:clipToPadding="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd">
+        <androidx.preference.internal.PreferenceImageView android:id="@android:id/icon" android:layout_width="@dimen/car_ui_preference_icon_size" android:layout_height="@dimen/car_ui_preference_icon_size" android:layout_marginEnd="@dimen/car_ui_preference_icon_margin_end" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true">
+            <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceTitle" android:ellipsize="end" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="@style/TextAppearance.CarUi.PreferenceSummary" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@id/action_widget_container" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <View android:layout_width="@dimen/car_ui_divider_width" android:layout_height="fill_parent" android:layout_marginTop="@dimen/car_ui_preference_content_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_content_margin_bottom" style="@style/Preference.CarUi.Divider" />
+        <FrameLayout android:id="@android:id/widget_frame" android:background="?android:selectableItemBackground" android:layout_width="wrap_content" android:layout_height="fill_parent" android:minWidth="?android:listPreferredItemHeightSmall" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd" />
+    </LinearLayout>
+</LinearLayout>

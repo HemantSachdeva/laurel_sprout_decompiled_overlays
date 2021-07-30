@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupdesign.GlifLayout android:icon="@drawable/quantum_gm_ic_compare_arrows_googblue_48" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sucHeaderText="@string/fragment_wifi_restore_choice_title" app:sucUsePartnerResource="false" app:sudUsePartnerHeavyTheme="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SudContentFrame">
+        <com.google.android.setupdesign.view.FillContentLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/fragment_target_wifi_animation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/wifi_restore_animation" android:adjustViewBounds="true" style="@style/SudContentIllustration" />
+        </com.google.android.setupdesign.view.FillContentLayout>
+        <Button android:id="@id/fragment_target_wifi_tertiary_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fragment_wifi_restore_choice_use_iphone_button" style="@style/SudGlifButton.Tertiary" />
+    </LinearLayout>
+</com.google.android.setupdesign.GlifLayout>

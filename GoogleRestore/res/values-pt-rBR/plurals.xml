@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Todos os %1$d apps</item>
+        <item quantity="one">Todos os %1$d apps</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d apps selecionados</item>
+        <item quantity="one">%1$d app selecionado</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d apps disponíveis para restauração Selecione alguns ou todos eles.</item>
+        <item quantity="one">%1$d app disponível para restauração Você quer restaurá-lo?</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d contatos no dispositivo</item>
+        <item quantity="one">%1$d contato no dispositivo</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d contatos no chip e no dispositivo</item>
+        <item quantity="one">%1$d contato no chip e no dispositivo</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contatos do chip</item>
+        <item quantity="one">%1$d contato do chip</item>
+    </plurals>
+</resources>

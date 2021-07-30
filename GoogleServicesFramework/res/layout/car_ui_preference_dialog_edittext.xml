@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/car_ui_preference_edit_text_dialog_margin_top" android:layout_marginBottom="@dimen/car_ui_preference_edit_text_dialog_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@android:id/message" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/car_ui_preference_edit_text_dialog_message_margin_bottom" android:layout_marginStart="@dimen/car_ui_preference_edit_text_dialog_message_margin_start" android:layout_marginEnd="@dimen/car_ui_preference_edit_text_dialog_message_margin_end" style="@style/TextAppearance.CarUi.PreferenceEditTextDialogMessage" />
+    <EditText android:id="@android:id/edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/car_ui_preference_edit_text_dialog_text_margin_start" android:layout_marginEnd="@dimen/car_ui_preference_edit_text_dialog_text_margin_end" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">ឥឡូវនេះ ស្នាមម្រាមដៃ​អ្នកអាចប្រើប្រាស់បាន​ហើយ។ ប្រើ​វា​ដោះសោ​ឧបករណ៍ ឬ​វាយបញ្ចូល​ពាក្យសម្ងាត់។</string>
+    <string name="fingerprint_enter_second_psw_msg">វាយបញ្ចូល​ពាក្យសម្ងាត់លំហទីពីរ​ ក្រោយដំណើរការ​បើក​ឧបករណ៍​ឡើងវិញ​ដើម្បី​មាន​លទ្ធភាព​ប្រើ​​មុខងារ​ទទួលស្គាល់​ស្នាមម្រាមដៃ</string>
+    <string name="fingerprint_enter_second_psw_title">វាយបញ្ចូល​ពាក្យសម្ងាត់​លំហទីពីរ​</string>
+    <string name="fingerprint_not_identified_msg">មាន​ការព្យាយាម​មិន​បាន​សម្រេច​ច្រើនដងពេក។ វាយបញ្ចូល​ពាក្យសម្ងាត់​ឥឡូវនេះ ឬ​ព្យាយាម​ការប្រើ​ស្នាមម្រាមដៃ​របស់អ្នក​ក្នុង​រយៈពេល​បន្តិចទៀតនេះ។</string>
+    <string name="fingerprint_not_identified_msg_lock">មានការប៉ុនប៉ងមិនជោគជ័យច្រើនពេក។ បញ្ចូលពាក្យសម្ងាត់ឥឡូវនេះ។</string>
+    <string name="fingerprint_not_identified_title">វាយបញ្ចូលពាក្យសម្ងាត់</string>
+    <string name="fingerprint_try_again_msg">មិន​អាច​ផ្ទៀងផ្ទាត់​​ស្នាមម្រាមដៃ​បានទេ។ សូមព្យាយាមម្តងទៀត។</string>
+    <string name="fingerprint_try_again_text">ព្យាយាម​ម្តងទៀត​</string>
+    <string name="fpod_fingerprint_not_recognized">មិន​អាចទាញដោះសោបានទេ។​ សូមព្យាយាម​ម្ដងទៀត។</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">ចុចឱ្យខ្លាំជាងនេះបន្តិច</string>
+    <string name="fpod_try_again">ព្យាយាម​ម្តងទៀត​</string>
+    <string name="input_password_after_72_hours_timeout_msg">អ្នកមិនបានប្រើប្រាស់ពាក្យសម្ងាត់របស់អ្នកលើស​ 72 ម៉ោងហើយ។ បញ្ចូលពាក្យសម្ងាត់របស់អ្នក។</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">មិន​អាច​ប្ដូរ​លំហ​​បានទេ ពេល​កំពុង​មាន​ការហៅ</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">អ្នកមិនបានប្រើប្រាស់គំរូដោះសោរបស់អ្នកហួស 72 ម៉ោងហើយ។ សូមគូរគំរូដោះសោរបស់អ្នក។</string>
+    <string name="input_pin_after_72_hours_timeout_msg">អ្នកមិនបានប្រើប្រាស់ពាក្យសម្ងាត់របស់អ្នកហួស 72 ម៉ោងហើយ។ សូមបញ្ចូលកូដ PIN របស់អ្នក។</string>
+    <string name="kg_face_unlock_liveness">រកមិនឃើញមាន​រូប​ផ្ទៃមុខទេ</string>
+    <string name="kg_face_unlock_not_found">រកមិនឃើញមាន​រូប​ផ្ទៃមុខទេ</string>
+    <string name="kg_face_unlock_not_matching">មិនអាចសម្គាល់អ្នកបានទេ</string>
+    <string name="kg_face_unlock_open_eyes">សូមបើកភ្នែក</string>
+</resources>

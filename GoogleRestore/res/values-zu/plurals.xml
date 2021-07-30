@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">All %1$d izinhlelo zokusebenza</item>
+        <item quantity="one">All %1$d izinhlelo zokusebenza</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d izinhlelo zokusebenza ezikhethiwe</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza ezikhethiwe</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d izinhlelo zokusebenza ezitholakalayo ukuze zibuyiselwe. Khetha okumbalwa noma zilethe zonke.</item>
+        <item quantity="one">%1$d izinhlelo zokusebenza ezitholakalayo ukuze zibuyiselwe. Khetha okumbalwa noma zilethe zonke.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d oxhumana nabo bedivayisi</item>
+        <item quantity="one">%1$d oxhumana nabo bedivayisi</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d idivayisi noxhumana nabo be-SIM</item>
+        <item quantity="one">%1$d idivayisi noxhumana nabo be-SIM</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM oxhumana nabo</item>
+        <item quantity="one">%1$d SIM oxhumana nabo</item>
+    </plurals>
+</resources>

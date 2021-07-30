@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$work_profile_setup_animation__19__0" android:duration="717" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:interpolator="@drawable/$$work_profile_setup_animation__19__1" android:duration="217" android:startOffset="717" android:valueFrom="0" android:valueTo="1" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:interpolator="@drawable/$$work_profile_setup_animation__19__2" android:duration="1100" android:startOffset="933" android:valueFrom="1" android:valueTo="1" android:valueType="floatType" android:propertyName="trimPathEnd" />
+    <objectAnimator android:interpolator="@drawable/$$work_profile_setup_animation__19__3" android:duration="233" android:startOffset="2033" android:valueFrom="1" android:valueTo="0" android:valueType="floatType" android:propertyName="trimPathEnd" />
+</set>

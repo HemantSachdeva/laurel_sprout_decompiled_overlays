@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_useRoundIcon" id="0x7f010000" />
+    <public type="dimen" name="config_bottomDialogCornerRadius" id="0x7f020000" />
+    <public type="dimen" name="config_dialogCornerRadius" id="0x7f020001" />
+    <public type="string" name="config_icon_mask" id="0x7f030000" />
+    <public type="string" name="icon_shape_vessel_overlay" id="0x7f030001" />
+</resources>

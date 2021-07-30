@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" android:sharedUserId="android.uid.system" coreApp="true" package="com.qualcomm.qti.qtisystemservice" platformBuildVersionCode="30" platformBuildVersionName="11">
+    <permission android:name="android.permission.QTI_SYSTEM_SERVICE" android:protectionLevel="privileged|signature"/>
+    <application android:extractNativeLibs="false" android:process="system" android:usesNonSdkApi="true">
+        <service android:exported="true" android:name=".SystemService" android:permission="android.permission.QTI_SYSTEM_SERVICE" android:process="com.android.phone"/>
+        <service android:exported="true" android:name=".TelecomCallService" android:permission="android.permission.QTI_SYSTEM_SERVICE"/>
+    </application>
+</manifest>

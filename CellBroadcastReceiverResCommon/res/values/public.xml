@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="show_brazil_settings" id="0x7f010000" />
+    <public type="bool" name="show_cmas_settings" id="0x7f010001" />
+    <public type="bool" name="show_etws_settings" id="0x7f010002" />
+</resources>

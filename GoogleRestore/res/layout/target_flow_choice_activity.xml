@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupdesign.GlifLayout android:icon="@drawable/quantum_gm_ic_compare_arrows_googblue_48" android:id="@id/restore_activity_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:sucHeaderText="@string/flow_choice_title" app:sucUsePartnerResource="false" app:sudUsePartnerHeavyTheme="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SudContentFrame">
+        <TextView android:id="@id/sud_layout_description" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SudDescription.Glif" />
+        <com.google.android.setupdesign.view.FillContentLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <ImageView android:id="@id/copy_data_animation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/missingdata_animation" android:adjustViewBounds="true" style="@style/SudContentIllustration" />
+            <ImageView android:id="@id/oem_image_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" style="@style/SudContentIllustration" />
+        </com.google.android.setupdesign.view.FillContentLayout>
+    </LinearLayout>
+</com.google.android.setupdesign.GlifLayout>

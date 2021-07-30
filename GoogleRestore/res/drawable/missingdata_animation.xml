@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/missingdata"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="path_185" android:animation="@anim/missingdata_path_185_animation" />
+    <target android:name="path_187" android:animation="@anim/missingdata_path_187_animation" />
+    <target android:name="path_188" android:animation="@anim/missingdata_path_188_animation" />
+    <target android:name="path_189" android:animation="@anim/missingdata_path_189_animation" />
+    <target android:name="path_190" android:animation="@anim/missingdata_path_190_animation" />
+    <target android:name="path_192" android:animation="@anim/missingdata_path_192_animation" />
+    <target android:name="path_194" android:animation="@anim/missingdata_path_194_animation" />
+    <target android:name="path_198" android:animation="@anim/missingdata_path_198_animation" />
+    <target android:name="path_199" android:animation="@anim/missingdata_path_199_animation" />
+    <target android:name="path_200" android:animation="@anim/missingdata_path_200_animation" />
+    <target android:name="path_202" android:animation="@anim/missingdata_path_202_animation" />
+    <target android:name="path_203" android:animation="@anim/missingdata_path_203_animation" />
+    <target android:name="path_204" android:animation="@anim/missingdata_path_204_animation" />
+    <target android:name="path_208" android:animation="@anim/missingdata_path_208_animation" />
+    <target android:name="path_210" android:animation="@anim/missingdata_path_210_animation" />
+    <target android:name="path_211" android:animation="@anim/missingdata_path_211_animation" />
+    <target android:name="path_213" android:animation="@anim/missingdata_path_213_animation" />
+    <target android:name="path_214" android:animation="@anim/missingdata_path_214_animation" />
+    <target android:name="path_215" android:animation="@anim/missingdata_path_215_animation" />
+    <target android:name="path_216" android:animation="@anim/missingdata_path_216_animation" />
+    <target android:name="path_218" android:animation="@anim/missingdata_path_218_animation" />
+    <target android:name="path_219" android:animation="@anim/missingdata_path_219_animation" />
+    <target android:name="path_220" android:animation="@anim/missingdata_path_220_animation" />
+    <target android:name="path_221" android:animation="@anim/missingdata_path_221_animation" />
+    <target android:name="path_223" android:animation="@anim/missingdata_path_223_animation" />
+    <target android:name="path_225" android:animation="@anim/missingdata_path_225_animation" />
+    <target android:name="path_229" android:animation="@anim/missingdata_path_229_animation" />
+    <target android:name="path_230" android:animation="@anim/missingdata_path_230_animation" />
+    <target android:name="path_231" android:animation="@anim/missingdata_path_231_animation" />
+    <target android:name="path_233" android:animation="@anim/missingdata_path_233_animation" />
+    <target android:name="path_234" android:animation="@anim/missingdata_path_234_animation" />
+    <target android:name="path_235" android:animation="@anim/missingdata_path_235_animation" />
+    <target android:name="path_239" android:animation="@anim/missingdata_path_239_animation" />
+    <target android:name="path_240" android:animation="@anim/missingdata_path_240_animation" />
+    <target android:name="path_241" android:animation="@anim/missingdata_path_241_animation" />
+    <target android:name="path_242" android:animation="@anim/missingdata_path_242_animation" />
+    <target android:name="path_244" android:animation="@anim/missingdata_path_244_animation" />
+    <target android:name="path_245" android:animation="@anim/missingdata_path_245_animation" />
+    <target android:name="path_246" android:animation="@anim/missingdata_path_246_animation" />
+</animated-vector>

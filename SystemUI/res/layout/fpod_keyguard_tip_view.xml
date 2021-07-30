@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/fpod_tip_font_size" android:textColor="@android:color/white" android:id="@id/fpod_anim_try_again" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="vertical" android:id="@id/fpod_anim_long_press_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <TextView android:textSize="@dimen/fpod_tip_long_press" android:textColor="#ccffffff" android:layout_gravity="center_horizontal" android:id="@id/fpod_anim_long_press_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/fpod_long_press_tip" android:maxLines="1" />
+        <ImageView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/fpod_anim_long_press_img" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:src="@drawable/fpod_tip_arrow_light" />
+        <View android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="10.0dip" />
+    </LinearLayout>
+</RelativeLayout>

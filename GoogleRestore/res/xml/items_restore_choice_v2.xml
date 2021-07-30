@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <DescriptionItem android:enabled="false" android:id="@id/restore_choice_description" android:layout="@layout/sud_items_description" android:title="@string/restore_choice_phone_description" />
+    <Item android:icon="@drawable/quantum_gm_ic_android_grey600_24" android:id="@id/restore_choice_android_device" android:title="@string/restore_choice_android_device_label_new" />
+    <Item android:icon="@drawable/ic_restore_choice_ios_device" android:id="@id/restore_choice_ios_device" android:title="@string/restore_choice_ios_device_label" />
+</ItemGroup>

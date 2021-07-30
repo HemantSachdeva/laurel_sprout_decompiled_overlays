@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: res/drawable/ic_smartspace_preferences.xml
+SHA-256-Digest: lCCpC34CdYhYTln754nLQyxK47CEBgGvlrxOdq03v/c=
+
+Name: res/drawable/ic_install_no_shadow.xml
+SHA-256-Digest: /CyK7faEqKOmGFsPyy02PwxJzF+cTt8Tsptkcnfw+7k=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: GG8LNGri2xzup/Zqp41rv6XGhEw0JtAT4TT0NmZ5yyc=
+
+Name: res/drawable/ic_split_screen.xml
+SHA-256-Digest: 7oEEj0aHnWcTPJBiy3hjSoC3ngQl95d4bynsUbSAPBY=
+
+Name: res/drawable/ic_widget.xml
+SHA-256-Digest: clk4nL+R8W8X42osPEIO0eXkr+ubUs6Itav7ouCAhio=
+
+Name: res/drawable/ic_screenshot.xml
+SHA-256-Digest: 4v+up0WeBuEcci+JnEWPNMFY2BkWiQro+UXHxjJ3d8o=
+
+Name: res/drawable/ic_select.xml
+SHA-256-Digest: NvgxeRcdGmPCpWKLAkJOge6dYi71BgQauiMH/oXdv7s=
+
+Name: res/drawable/ic_remove_no_shadow.xml
+SHA-256-Digest: 5FJ3EqC2IoXb7sg6Mnh7x15Z/wD/YFgGcf/jmukKwAo=
+
+Name: res/drawable/ic_palette.xml
+SHA-256-Digest: TYiMl7lwB4sEWtG1jneGPNaoJaggpxLd1rhsWLxBhw0=
+
+Name: res/drawable/ic_warning.xml
+SHA-256-Digest: DyAvvGa0fTVku3zqD1/UWS45SmDMplj5TqcWyYJrOho=
+
+Name: res/drawable/ic_share.xml
+SHA-256-Digest: /G8+RiRj9bh3YOKbKG59IynOWGQHUMbJNR4eQ3BJtSI=
+
+Name: res/drawable/ic_pin.xml
+SHA-256-Digest: 22XvoWty3tp1BCZ5/daTV54Ew0H3FKbQ2/urYt+VR5o=
+
+Name: res/drawable/ic_corp_off.xml
+SHA-256-Digest: AGt2euMYSL4q3NRKp7oXPay0HVyfp9ruClynqREESCM=
+
+Name: res/drawable/ic_hourglass_top.xml
+SHA-256-Digest: h3XtrLWWkP3JxWe2cf68/q8zjrndwRJfvtC7S/yveA8=
+
+Name: res/drawable/ic_info_no_shadow.xml
+SHA-256-Digest: 5LXuOyRoxVYFHEo04Q0QrUCAGTfJn5LvVzCkxkV4bZU=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA-256-Digest: b3xphfk7n3nZNPD2FiUsxYta1+uXyYAVw2WPdItK4Lk=
+
+Name: res/drawable/ic_uninstall_no_shadow.xml
+SHA-256-Digest: 07FYIPrZMagJvmfjHUDUBbC1IeLoAWhJH9hik4aFKyk=
+
+Name: resources.arsc
+SHA-256-Digest: c/Es9mv/bTRRpNwHFkkytabbOWUq87YCKDyDQgZsnVk=
+
+Name: res/drawable/ic_corp.xml
+SHA-256-Digest: BNJjuCaHNwe8g5uQOtYlorYZ4hBkB8n/+ROF1EbsLF4=
+
+Name: res/drawable/ic_setting.xml
+SHA-256-Digest: qAzaQh+5/yrJ+6fQIE4MOiK8Mz7aYxVcw2csPzbYjVk=
+

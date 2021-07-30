@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CFActivate">激活</string>
+    <string name="CFDeactivate">禁用</string>
+    <string name="call_forwarding_settings">来电转接设置</string>
+    <string name="call_waiting_settings">呼叫等待设置</string>
+    <string name="change_num">更新</string>
+    <string name="disable">关闭</string>
+    <string name="enable">开启</string>
+    <string name="help">帮助</string>
+    <string name="labelCF">来电转接</string>
+    <string name="labelCFB">占线时</string>
+    <string name="labelCFDeactAll">全部禁用</string>
+    <string name="labelCFNRc">无法接通时</string>
+    <string name="labelCFNRc_cdma">隐含呼叫转移</string>
+    <string name="labelCFNRy">无人接听时</string>
+    <string name="labelCFU">始终转接</string>
+    <string name="labelCW">来电等待</string>
+    <string name="messageCFB">占线时的转接号码</string>
+    <string name="messageCFNRc">无法接通时的转接号码</string>
+    <string name="messageCFNRy">无人接听时的转接号码</string>
+    <string name="messageCFU">始终使用此号码</string>
+    <string name="missing_permission_msg">没有所需的权限该应用无法运行，请在设置中赋予权限。</string>
+    <string name="null_phone_number">输入的电话号码不能为空!</string>
+    <string name="quit">退出</string>
+    <string name="selectContact">选择联系人</string>
+    <string name="settings">设置</string>
+</resources>

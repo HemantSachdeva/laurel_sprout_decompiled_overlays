@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">اثر انگشت شما اکنون فعال است. از آن برای باز کردن قفل دستگاه استفاده کرده یا گذرواژه را وارد کنید.</string>
+    <string name="fingerprint_enter_second_psw_msg">گذرواژه فضای دوم را پس از راه‌اندازی دوباره وارد کرده تا بتوانید از تشخیص اثر انگشت استفاده کنید</string>
+    <string name="fingerprint_enter_second_psw_title">گذرواژه فضای دوم را وارد کنید</string>
+    <string name="fingerprint_not_identified_msg">تلاش‌های ناموفق بیش از حد. اکنون گذرواژه را وارد کرده و یا از اثر انگشت خود چند ثانیه دیگر استفاده کنید.</string>
+    <string name="fingerprint_not_identified_msg_lock">تلاش‌های ناموفق بیش از حد شدند. گذرواژه را وارد کنید.</string>
+    <string name="fingerprint_not_identified_title">گذرواژه را وارد کنید</string>
+    <string name="fingerprint_try_again_msg">اثر انگشت تأیید نشد. دوباره تلاش کنید.</string>
+    <string name="fingerprint_try_again_text">تلاش دوباره</string>
+    <string name="fpod_fingerprint_not_recognized">قفل باز نشد. دوباره تلاش کنید.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">کمی سخت‌تر بفشارید</string>
+    <string name="fpod_try_again">تلاش دوباره</string>
+    <string name="input_password_after_72_hours_timeout_msg">شما حداقل ۷۲ ساعت است که از گذرواژه خود استفاده نکرده‌اید. گذرواژه خود را وارد کنید.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">هنگام تماس نمی‌توان بین فضاها تعویض کرد</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">شما حد اقل ۷۲ ساعت است که از الگوی خود استفاده نکرده‌اید. الگوی خود را بکشید.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">شما حد اقل ۷۲ ساعت است که از PIN خود استفاده نکرده‌اید. PIN خود را وارد کنید.</string>
+    <string name="kg_face_unlock_liveness">چهره شناسایی نشد</string>
+    <string name="kg_face_unlock_not_found">چهره شناسایی نشد</string>
+    <string name="kg_face_unlock_not_matching">شناسایی نشدید</string>
+    <string name="kg_face_unlock_open_eyes">چشمان خود را باز کنید</string>
+</resources>

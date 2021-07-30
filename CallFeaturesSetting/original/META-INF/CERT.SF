@@ -1,0 +1,47 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: LhJzuFMKk8/LpW+9vS5JdRTCAU1y7tH5M400+zf67QA=
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: H1Kl2yLepxka/RNLXzKEJju8l/wgsokxfPz7RRNiX74=
+
+Name: res/drawable/ic_back_arrow.xml
+SHA-256-Digest: 53v5h9NkFCY2RMohDJh+MxjXk0Rb5kX5iwzGuPduSAU=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: VBHwolJ2781Ud++OfAasDAWb9mOAg9hMcMjVJo67kM8=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: Aw1BzKND9NQ7OvQyavW4C690FVYoY0vhzUR1bUd6jNA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: qBwIa3wE8pR+KdXNSVFdb6tqvcSe15n/w/UnPR3Gmrc=
+
+Name: res/xml/callwaiting_cdma_options.xml
+SHA-256-Digest: U7aA6baMOOdiWJHcsjbNN4Yl1xZLMIM2YcY6LMaVwLw=
+
+Name: resources.arsc
+SHA-256-Digest: wZroVdbNCzvtxGCsXJpnCCyhoG1yY8ApdsBR1/APVZ8=
+
+Name: res/drawable-hdpi-v4/ic_arrow_back_24dp.png
+SHA-256-Digest: bJYcqApBpdtk0z8NVIQygumGSh5Vy6HPmmvjTr6zU60=
+
+Name: res/layout/pref_dialog_editphonenumber.xml
+SHA-256-Digest: qL3Gn1cCKolgr9rer6AvpdtyX4ZZXyBmCqB/3n/3+Aw=
+
+Name: classes.dex
+SHA-256-Digest: 6X+upBPAmq4VgiXlJhofLLVbwvzBdXQcgRha+q/Lb9M=
+
+Name: res/drawable-hdpi-v4/ic_see_contacts_holo_dark.png
+SHA-256-Digest: z43Usg8VWO6Y97yMb1AwTmor2iivsGDjPMc9p9VnXbI=
+
+Name: res/xml/callforward_cdma_options.xml
+SHA-256-Digest: BN7XK/W2j9OE4hiqumNzYGu2yUNNpLA9yuOK4ikDOwU=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: avdNjmozfyAkr4tol1zSu4VoEAf6hP6YSX6xFgfYawA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_phone.png
+SHA-256-Digest: CIAMyBlvivG5ROIKqbhmmcZsfsFDdI4hNJpHzb3fcjo=
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:duration="1700" android:startOffset="0" android:valueFrom="M74.93 -387.64 C74.93,-387.64 -288.85,-387.64 -288.85,-387.64 C-288.85,-387.64 -288.85,473.72 -288.85,473.72 C-288.85,473.72 74.93,473.72 74.93,473.72 C74.93,473.72 74.93,-387.64 74.93,-387.64c " android:valueTo="M78.93 -388.21 C78.93,-388.21 -284.85,-388.21 -284.85,-388.21 C-284.85,-388.21 -284.85,473.15 -284.85,473.15 C-284.85,473.15 78.93,473.15 78.93,473.15 C78.93,473.15 78.93,-388.21 78.93,-388.21c " android:valueType="pathType" android:propertyName="pathData" />
+    <objectAnimator android:duration="1283" android:startOffset="1700" android:valueFrom="M78.93 -388.21 C78.93,-388.21 -284.85,-388.21 -284.85,-388.21 C-284.85,-388.21 -284.85,473.15 -284.85,473.15 C-284.85,473.15 78.93,473.15 78.93,473.15 C78.93,473.15 78.93,-388.21 78.93,-388.21c " android:valueTo="M72.64 -388.21 C72.64,-388.21 -291.13,-388.21 -291.13,-388.21 C-291.13,-388.21 -291.13,473.15 -291.13,473.15 C-291.13,473.15 72.64,473.15 72.64,473.15 C72.64,473.15 72.64,-388.21 72.64,-388.21c " android:valueType="pathType" android:propertyName="pathData" />
+</set>

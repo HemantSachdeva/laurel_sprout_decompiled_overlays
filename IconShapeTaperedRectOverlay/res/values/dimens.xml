@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_bottomDialogCornerRadius">0.0dip</dimen>
+    <dimen name="config_dialogCornerRadius">0.0dip</dimen>
+    <dimen name="config_qsTileStrokeWidthInactive">1.0dip</dimen>
+</resources>

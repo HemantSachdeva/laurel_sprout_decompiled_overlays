@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_no_sim_display_network_modes" id="0x7f010000" />
+    <public type="bool" name="config_support_rtt" id="0x7f010001" />
+    <public type="bool" name="csp_enabled" id="0x7f010002" />
+    <public type="bool" name="dtmf_type_enabled" id="0x7f010003" />
+    <public type="bool" name="send_mic_mute_to_AudioManager" id="0x7f010004" />
+    <public type="bool" name="world_phone" id="0x7f010005" />
+    <public type="integer" name="OtaShowListeningScreen" id="0x7f020000" />
+    <public type="string" name="config_ims_mmtel_package" id="0x7f030000" />
+    <public type="string" name="config_ims_rcs_package" id="0x7f030001" />
+    <public type="string" name="platform_number_verification_package" id="0x7f030002" />
+    <public type="xml" name="telephony_injection" id="0x7f040000" />
+</resources>

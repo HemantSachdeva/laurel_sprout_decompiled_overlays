@@ -1,0 +1,22 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: framework-res.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- ogg
+isFrameworkApk: true
+packageInfo:
+  forcedPackageId: '1'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '30'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.5.0
+versionInfo:
+  versionCode: '30'
+  versionName: '11'

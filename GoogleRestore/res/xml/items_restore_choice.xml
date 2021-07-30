@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:enabled="false" android:layout="@layout/item_empty" />
+    <Item android:icon="@drawable/quantum_gm_ic_android_grey600_24" android:id="@id/restore_choice_android_device" android:title="@string/restore_choice_android_device_label" android:summary="@string/restore_choice_android_device_summary" />
+    <Item android:icon="@drawable/ic_restore_choice_google_account" android:id="@id/restore_choice_google_account" android:title="@string/restore_choice_google_account_label" android:summary="@string/restore_choice_google_account_summary" />
+    <Item android:icon="@drawable/ic_restore_choice_ios_device" android:id="@id/restore_choice_ios_device" android:title="@string/restore_choice_ios_device_label" />
+</ItemGroup>

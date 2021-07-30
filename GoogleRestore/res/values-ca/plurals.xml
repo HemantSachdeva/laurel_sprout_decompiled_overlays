@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Les %1$d aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d aplicacions seleccionades</item>
+        <item quantity="one">1 aplicació seleccionada</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">"%1$d aplicacions disponibles per restaurar. Tria'n unes quantes o restaura-les totes."</item>
+        <item quantity="one">%1$d aplicació disponible per restaurar.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d contactes del dispositiu</item>
+        <item quantity="one">1 contacte del dispositiu</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d contactes al dispositiu i a la SIM</item>
+        <item quantity="one">%1$d contacte al dispositiu i a la SIM</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d contactes a la SIM</item>
+        <item quantity="one">1 contacte a la SIM</item>
+    </plurals>
+</resources>

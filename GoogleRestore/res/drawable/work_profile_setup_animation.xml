@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$work_profile_setup_animation__0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_30_G_T_1" android:animation="@drawable/$work_profile_setup_animation__1" />
+    <target android:name="_R_G_L_29_G_T_1" android:animation="@drawable/$work_profile_setup_animation__2" />
+    <target android:name="_R_G_L_28_G_T_1" android:animation="@drawable/$work_profile_setup_animation__3" />
+    <target android:name="_R_G_L_27_G_T_1" android:animation="@drawable/$work_profile_setup_animation__4" />
+    <target android:name="_R_G_L_26_G_T_1" android:animation="@drawable/$work_profile_setup_animation__5" />
+    <target android:name="_R_G_L_25_G_T_1" android:animation="@drawable/$work_profile_setup_animation__6" />
+    <target android:name="_R_G_L_24_G_N_30_T_1" android:animation="@drawable/$work_profile_setup_animation__7" />
+    <target android:name="_R_G_L_23_G_D_0_P_0" android:animation="@drawable/$work_profile_setup_animation__8" />
+    <target android:name="_R_G_L_23_G_N_29_T_1" android:animation="@drawable/$work_profile_setup_animation__9" />
+    <target android:name="_R_G_L_22_G" android:animation="@drawable/$work_profile_setup_animation__10" />
+    <target android:name="_R_G_L_22_G_N_31_T_1" android:animation="@drawable/$work_profile_setup_animation__11" />
+    <target android:name="_R_G_L_21_G_D_0_P_0" android:animation="@drawable/$work_profile_setup_animation__12" />
+    <target android:name="_R_G_L_21_G_N_28_T_1" android:animation="@drawable/$work_profile_setup_animation__13" />
+    <target android:name="_R_G_L_20_G" android:animation="@drawable/$work_profile_setup_animation__14" />
+    <target android:name="_R_G_L_19_G" android:animation="@drawable/$work_profile_setup_animation__15" />
+    <target android:name="_R_G_L_16_G" android:animation="@drawable/$work_profile_setup_animation__16" />
+    <target android:name="_R_G_L_14_G" android:animation="@drawable/$work_profile_setup_animation__17" />
+    <target android:name="_R_G_L_14_G_N_18_T_0" android:animation="@drawable/$work_profile_setup_animation__18" />
+    <target android:name="_R_G_L_12_G_D_0_P_0" android:animation="@drawable/$work_profile_setup_animation__19" />
+    <target android:name="_R_G_L_12_G_D_1_P_0" android:animation="@drawable/$work_profile_setup_animation__20" />
+    <target android:name="_R_G_L_12_G_D_1_P_0" android:animation="@drawable/$work_profile_setup_animation__21" />
+    <target android:name="_R_G_L_12_G_N_13_N_16_T_0" android:animation="@drawable/$work_profile_setup_animation__22" />
+    <target android:name="_R_G_L_12_G_N_13_N_16_N_18_T_0" android:animation="@drawable/$work_profile_setup_animation__23" />
+    <target android:name="_R_G_L_11_C_0" android:animation="@drawable/$work_profile_setup_animation__24" />
+    <target android:name="_R_G_L_11_G_N_16_T_0" android:animation="@drawable/$work_profile_setup_animation__25" />
+    <target android:name="_R_G_L_11_G_N_16_N_18_T_0" android:animation="@drawable/$work_profile_setup_animation__26" />
+    <target android:name="_R_G_L_10_G_D_0_P_0" android:animation="@drawable/$work_profile_setup_animation__27" />
+    <target android:name="_R_G_L_10_G_N_13_N_16_T_0" android:animation="@drawable/$work_profile_setup_animation__28" />
+    <target android:name="_R_G_L_10_G_N_13_N_16_N_18_T_0" android:animation="@drawable/$work_profile_setup_animation__29" />
+    <target android:name="_R_G_L_8_G_D_0_P_0" android:animation="@drawable/$work_profile_setup_animation__30" />
+    <target android:name="_R_G_L_7_G_T_1" android:animation="@drawable/$work_profile_setup_animation__31" />
+    <target android:name="_R_G_L_7_G_T_1" android:animation="@drawable/$work_profile_setup_animation__32" />
+    <target android:name="_R_G_L_6_C_0" android:animation="@drawable/$work_profile_setup_animation__33" />
+    <target android:name="_R_G_L_6_G_N_9_T_1" android:animation="@drawable/$work_profile_setup_animation__34" />
+    <target android:name="_R_G_L_6_G_N_9_T_1" android:animation="@drawable/$work_profile_setup_animation__35" />
+    <target android:name="_R_G_L_5_C_0" android:animation="@drawable/$work_profile_setup_animation__36" />
+    <target android:name="_R_G_L_5_G_N_5_T_1" android:animation="@drawable/$work_profile_setup_animation__37" />
+    <target android:name="_R_G_L_4_C_0" android:animation="@drawable/$work_profile_setup_animation__38" />
+    <target android:name="_R_G_L_4_G_T_1" android:animation="@drawable/$work_profile_setup_animation__39" />
+    <target android:name="_R_G_L_3_G_D_4_P_0" android:animation="@drawable/$work_profile_setup_animation__40" />
+    <target android:name="_R_G_L_3_G_T_1" android:animation="@drawable/$work_profile_setup_animation__41" />
+    <target android:name="_R_G_L_2_G_N_4_T_1" android:animation="@drawable/$work_profile_setup_animation__42" />
+    <target android:name="time_group" android:animation="@drawable/$work_profile_setup_animation__43" />
+</animated-vector>

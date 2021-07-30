@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Barcha %1$d ta ilova</item>
+        <item quantity="one">1 ta ilova</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d ta ilova belgilandi</item>
+        <item quantity="one">1 ta ilova belgilandi</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d ta ilovani tiklash mumkin. Tiklash uchun zarurlarini belgilang.</item>
+        <item quantity="one">%1$d ta ilovani tiklash mumkin</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">Qurilmada %1$d ta kontakt</item>
+        <item quantity="one">Qurilmada 1 ta kontakt</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d ta kontakt (qurilma va SIM karta)</item>
+        <item quantity="one">%1$d ta kontakt (qurilma va SIM karta)</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d ta kontakt (SIM karta)</item>
+        <item quantity="one">1 ta kontakt (SIM karta)</item>
+    </plurals>
+</resources>

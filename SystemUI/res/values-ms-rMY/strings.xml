@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fingerprint_again_identified_msg">Cap jari anda telah diaktifkan. Gunakan ia untuk buka kunci peranti, atau memasukkan kata laluan.</string>
+    <string name="fingerprint_enter_second_psw_msg">Masukkan kata laluan Ruang Kedua selepas anda memulakan semula peranti untuk membolehkan pengecaman cap jari</string>
+    <string name="fingerprint_enter_second_psw_title">Masukkan kata laluan Ruang Kedua</string>
+    <string name="fingerprint_not_identified_msg">Terlalu banyak cubaan yang gagal. Masukkan kata laluan sekarang atau cuba menggunakan cap jari anda untuk beberapa saat.</string>
+    <string name="fingerprint_not_identified_msg_lock">Terlalu banyak cubaan gagal. Masukkan kata laluan sekarang.</string>
+    <string name="fingerprint_not_identified_title">Masukkan kata laluan</string>
+    <string name="fingerprint_try_again_msg">Tidak dapat mengesahkan cap jari. Cuba lagi.</string>
+    <string name="fingerprint_try_again_text">Cuba lagi</string>
+    <string name="fpod_fingerprint_not_recognized">Tidak dapat buka kunci. Cuba sekali lagi.</string>
+    <string name="fpod_long_press_tip" />
+    <string name="fpod_press_harder">Tekan kuat sedikit</string>
+    <string name="fpod_try_again">Cuba lagi</string>
+    <string name="input_password_after_72_hours_timeout_msg">Anda tidak menggunakan kata laluan sekurang-kurangnya selama 72 jam. Masukkan kata laluan anda.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">Tidak dapat menukar ruang semasa dalam panggilan</string>
+    <string name="input_pattern_after_72_hours_timeout_msg">Anda tidak menggunakan kata laluan sekurang-kurangnya selama 72 jam. Lukis corak anda.</string>
+    <string name="input_pin_after_72_hours_timeout_msg">Anda tidak menggunakan kata laluan sekurang-kurangnya selama 72 jam. Masukkan PIN anda.</string>
+    <string name="kg_face_unlock_liveness">Tidak dapat mengesan wajah</string>
+    <string name="kg_face_unlock_not_found">Tidak dapat mengesan wajah</string>
+    <string name="kg_face_unlock_not_matching">Tidak dapat mengecam anda</string>
+    <string name="kg_face_unlock_open_eyes">Buka mata anda</string>
+</resources>

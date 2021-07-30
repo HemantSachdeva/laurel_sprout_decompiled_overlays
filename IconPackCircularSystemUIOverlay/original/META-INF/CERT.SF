@@ -1,0 +1,176 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: 3AMnmI3sjzglI48hdmDdw4JSNZxv2v6BKafeNJIi0uI=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/ic_volume_alarm.xml
+SHA-256-Digest: fLMnI9OWj0PYcRz8NbVfzJQhq3Rk9X4E0w3I3V3HP1Q=
+
+Name: res/drawable/stat_sys_camera.xml
+SHA-256-Digest: 6kV7Z3nK2hyGVuGoqbzoaxBeXv8ydzt6Ryg+5+J6UuM=
+
+Name: res/drawable/ic_cast.xml
+SHA-256-Digest: 57F6rf98u7GsiDo/Wii0hLyu7jOxWN8Lf2ozcAi0DWA=
+
+Name: res/drawable/ic_qs_bluetooth_connecting.xml
+SHA-256-Digest: ZItUUzCCjzwU+FkN8ovbQuEw7QBh50XOH8YbiCIFDEE=
+
+Name: res/drawable/ic_qs_wifi_1.xml
+SHA-256-Digest: Q3qzOCCj8gpA3gkuRYUTFuowE1VbZu2pdzed7/z/CeI=
+
+Name: res/drawable/ic_volume_alarm_mute.xml
+SHA-256-Digest: sH2NKVRuBk7QGdzVhE9Yb1rQpD+OmCX6KcuT+DbFzT4=
+
+Name: res/drawable/ic_screenshot_delete.xml
+SHA-256-Digest: T0w8TGMcuT0j3+LC3VRv79ZuHgTj5V6Db3D1VP/FczM=
+
+Name: res/drawable/ic_notifications_silence.xml
+SHA-256-Digest: iutbdHu+p3pR7N/KuFfp4Wns45gEoKOjnF4effpUMnc=
+
+Name: res/drawable/ic_volume_ringer_vibrate.xml
+SHA-256-Digest: cDZcXsI5X2ytGE0JowHOb7LH8/WOA/bhwoWgORA9w9M=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA-256-Digest: /dWPIPuRxku4SdB4/baT0mYSsd7nWl2WAwxZoeXozLc=
+
+Name: res/drawable/stat_sys_vpn_ic.xml
+SHA-256-Digest: BIbzREdGtkvJfod+7GS00lUWJjiE+fPMSsw1xFbYc9g=
+
+Name: res/drawable/ic_hotspot.xml
+SHA-256-Digest: LSabUv6U+vIjxpcJVv8crMV5n3uhS4ZIBnZUvPTDicE=
+
+Name: res/drawable/ic_volume_ringer.xml
+SHA-256-Digest: xMXqrYBGZyv4ub5qpb2cPoUUyOY7QFnzxG5xvc+UMO8=
+
+Name: res/drawable/ic_data_saver.xml
+SHA-256-Digest: K/bNGyrQgbAZaJjO4yzr1ev9pVCuxckK4xzNwFW0dY0=
+
+Name: res/drawable/ic_qs_no_sim.xml
+SHA-256-Digest: 4uXjZaOcahW4DtrmdoV9B0HM+xNwkZtBWXF+OcBhG50=
+
+Name: res/drawable/ic_qs_wifi_2.xml
+SHA-256-Digest: 0e3JGgdepqp9WnjyuIAlM2KdfGtRjHGoZNIaiGNLz8M=
+
+Name: res/drawable/ic_arrow_back.xml
+SHA-256-Digest: Z79i89giRO7CvYwMn6ogLybStvj2lVeDfyxyONkYfJo=
+
+Name: res/drawable/ic_data_saver_off.xml
+SHA-256-Digest: FZDV4/lfnzOi0modE2ey4v4vV27bY3WW6QWSULxwOSQ=
+
+Name: res/drawable/ic_volume_bt_sco.xml
+SHA-256-Digest: 3PmsiWOcfuEDOdmmLw6zipjKQuTaeVNjOgN+Yh9Hj2E=
+
+Name: res/drawable/stat_sys_mic_none.xml
+SHA-256-Digest: gABHyN/TZ4G4rMFZ9MG7OBaRDKJ8HyfNtQ2iBDe7YTw=
+
+Name: res/drawable/ic_cast_connected.xml
+SHA-256-Digest: Aui8fm0H+dJWgmsiYFkRbNE8wB7UwAY5rf0cYNa3Z78=
+
+Name: res/drawable/ic_qs_wifi_0.xml
+SHA-256-Digest: u0zSwMvzb3D5qasCgmJLQhFwzuECCYMNB4h2aiRM7ag=
+
+Name: res/drawable/ic_bluetooth_connected.xml
+SHA-256-Digest: Vd/CfkfMyGzl/zpTq/Iac4x8pnU7J3JIvyYXO5HF/Jo=
+
+Name: res/drawable/ic_volume_odi_captions.xml
+SHA-256-Digest: dceDuREcKQ2RrfQl48L1rMXfyBk+iJjZR6vVl9r67QM=
+
+Name: res/drawable/ic_headset_mic.xml
+SHA-256-Digest: HzxEw/Jq64c80nVu9TNEx8oWc1JtmQZEFekfWb0aoaY=
+
+Name: resources.arsc
+SHA-256-Digest: AYAlxGfWOT+mlTjDUBCNAFJcteIxg+PAscsFuoZCq2w=
+
+Name: res/drawable/ic_settings_16dp.xml
+SHA-256-Digest: JDPQksKGdgReY/9/hhfforg38OIPbxOw5yZoltzZ7Yc=
+
+Name: res/drawable/ic_volume_voice.xml
+SHA-256-Digest: oTSq608WpfCzZOaYeBFp7SKZLePMyoWO4N0GFOt92nU=
+
+Name: res/drawable/ic_alarm_dim.xml
+SHA-256-Digest: nL8KS1GC06/pWK1UVA7hupbVEdXv0oHLSJwMaaTN03Y=
+
+Name: res/drawable/ic_power_low.xml
+SHA-256-Digest: 2nq5HCq6M/XTxtwERjse85kvWE0hYGpmcUifWC4WQWM=
+
+Name: res/drawable/ic_volume_media.xml
+SHA-256-Digest: BnpVh+2Xn8OF59JMS5bKkuBOLyBVHNaCMeE+iYI+qfY=
+
+Name: res/drawable/ic_qs_wifi_disconnected.xml
+SHA-256-Digest: kVTBvUNnGnZRLOIYLP0mIzOGrXcvm62F5io0369hQfs=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: jlOLjJGZo8XcnaKiOF8rpJ88AS6Y1bmK2SEb7K2nb4Q=
+
+Name: res/drawable/ic_camera.xml
+SHA-256-Digest: q5UpVytGwZAzZXB56ARWAVkHMdAiexcCkYHp1Hyhw7E=
+
+Name: res/drawable/ic_cast_connected_fill.xml
+SHA-256-Digest: nswZLHnF23cAeQJVV/FOBKutoQi7jSg+aJ7JGV6gLek=
+
+Name: res/drawable/ic_headset.xml
+SHA-256-Digest: 3vU35DZGKNb9aEPAovVsTU0Wrs1Ao8Jfj9TN1LbHGwE=
+
+Name: res/drawable/ic_location.xml
+SHA-256-Digest: z9Hw0twOZmd/luCMyzIYA8INHZS+gUcf+6Hf3Td8ymI=
+
+Name: res/drawable/ic_volume_ringer_mute.xml
+SHA-256-Digest: BmvhWsgK/F2SBgA3Hxx6f/He7oigoy5j29j1jgwDf6k=
+
+Name: res/drawable/ic_info_outline.xml
+SHA-256-Digest: K70KpgIBJXgmkmwtA8ZW1K27hAkQKnWKOhSTcLWzUc4=
+
+Name: res/drawable/ic_qs_bluetooth_on.xml
+SHA-256-Digest: jZCGYxaF1LjuHtLPmO25Si5zg/sJIXbLhxJZG9ADzxc=
+
+Name: res/drawable/ic_volume_media_mute.xml
+SHA-256-Digest: XwgblAoLWOyvy+3+GxgIIXslWhkJExBRZ3mb5B8bWik=
+
+Name: res/drawable/ic_invert_colors.xml
+SHA-256-Digest: n6JuMSfOS0w+jdEvXhWFoHRvOFYRWPsuRqCJd/cHlMA=
+
+Name: res/drawable/ic_notifications_alert.xml
+SHA-256-Digest: WaNFu+AknLv93Ca6cyY9ny0ZkhHGHxgcIP/VumhITb8=
+
+Name: res/drawable/ic_lockscreen_ime.xml
+SHA-256-Digest: 7VC7lXraTAOwqqC38FWsnMrYU1w8p1FdH3QiG1AwVaY=
+
+Name: res/drawable/ic_swap_vert.xml
+SHA-256-Digest: gMpDgQuGEdH/XhhvZ+a2gzIfeLyMQcJY1Sul97qxYq8=
+
+Name: res/drawable/ic_alarm.xml
+SHA-256-Digest: dad9HB28oK2X+qiTBlVjRld9hTeUcL/BZVKK/YmXr9M=
+
+Name: res/drawable/ic_brightness_thumb.xml
+SHA-256-Digest: owVAmQiNTJL1rVRLAgdxZkQMbe4FeUYTMyz7QxHtm3U=
+
+Name: res/drawable/ic_tune_black_16dp.xml
+SHA-256-Digest: DO6dLMQfb/fiayWPn6Wz9+zqZ0VOax3tyl/fNBXAGrU=
+
+Name: res/drawable/ic_close_white.xml
+SHA-256-Digest: lUMppjqfhA0hFIgffterZ+cZtYm5rnPI/zoGxyEmJGs=
+
+Name: res/drawable/ic_qs_wifi_3.xml
+SHA-256-Digest: OHvHvzbFBOwmeiO3qSfuLus9IW8Jyf9BUtjyoCLvFKY=
+
+Name: res/drawable/stat_sys_managed_profile_status.xml
+SHA-256-Digest: qFYYcSvy2V+aLux8jrkIn9W4FbUAaRdXjezoLI/8T0o=
+
+Name: res/drawable/ic_power_saver.xml
+SHA-256-Digest: 1KfzHONobQT+XvTae9+1H26a9rBJiO0GT5YeI55Vmcs=
+
+Name: res/drawable/ic_settings.xml
+SHA-256-Digest: 0oI2T+WakR1iuGwmhZ0Ue7nCrspSbPZJ9S0Mumq8tdA=
+
+Name: res/drawable/ic_qs_cancel.xml
+SHA-256-Digest: bTn6AjNpiJdga/PSg1QFnPGaz3Wcwsg0+BlIxguhtG4=
+
+Name: res/drawable/ic_info.xml
+SHA-256-Digest: gi3fozpKEEUR50Olh5O2k9g1+YiuX7BCKsNLYuYZ0KY=
+
+Name: res/drawable/ic_qs_wifi_4.xml
+SHA-256-Digest: gPNpFgVSLcHpoJE74FPA1fvHOJ5uWW/ByyzAXFQNPhU=
+
+Name: res/drawable/ic_volume_odi_captions_disabled.xml
+SHA-256-Digest: L2RRcv3QyhfmnYmlGBljDTjtLcj6ztCcQohwupsDtbA=
+

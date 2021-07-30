@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">အက်ပ်%1$d ခု လုံး</item>
+        <item quantity="one">အက်ပ်၁ ခု</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">အက်ပ်%1$d ရွေးထားသည်</item>
+        <item quantity="one">အက်ပ်၁ ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">အက်ပ် %1$d ခုကို ပြန်ယူနိုင်ပါသည်။ အနည်းငယ် သို့မဟုတ် အားလုံးကိုရွေးပါ။</item>
+        <item quantity="one">အက်ပ် %1$d ခုကို ပြန်ယူနိုင်ပါသည်</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">စက်တွင်းရှိ အဆက်အသွယ် %1$d ဦး</item>
+        <item quantity="one">စက်တွင်းရှိ အဆက်အသွယ် ၁ ဦး</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">စက် %1$d ခုနှင့် ဆင်းမ်အဆက်အသွယ်များ</item>
+        <item quantity="one">စက် %1$d ခုနှင့် ဆင်းမ်အဆက်အသွယ်</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">SIM ထဲတွင် အဆက်အသွယ် %1$d ခုရှိသည်</item>
+        <item quantity="one">SIM ထဲတွင် အဆက်အသွယ် ၁ ခုရှိသည်</item>
+    </plurals>
+</resources>

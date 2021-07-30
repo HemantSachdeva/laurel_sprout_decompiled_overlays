@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">Kaikki %1$d sovellusta</item>
+        <item quantity="one">1 sovellus</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d sovellusta valittu</item>
+        <item quantity="one">1 sovellus valittu</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d sovellusta on palautettavissa. Valitse haluamasi tai siirrä vaikka kaikki.</item>
+        <item quantity="one">%1$d sovellus on palautettavissa.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d yhteystietoa laitteella</item>
+        <item quantity="one">1 yhteystieto laitteella</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d laitteen ja SIM-kortin yhteystietoa</item>
+        <item quantity="one">%1$d laitteen ja SIM-kortin yhteystieto</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM-kortin yhteystietoa</item>
+        <item quantity="one">1 SIM-kortin yhteystieto</item>
+    </plurals>
+</resources>

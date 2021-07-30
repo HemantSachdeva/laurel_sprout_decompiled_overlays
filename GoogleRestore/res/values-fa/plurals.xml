@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">همه %1$d برنامه</item>
+        <item quantity="one">همه %1$d برنامه</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d برنامه انتخاب شد</item>
+        <item quantity="one">%1$d برنامه انتخاب شد</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d برنامه برای بازیابی دردسترس است. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+        <item quantity="one">%1$d برنامه برای بازیابی دردسترس است. چند برنامه را انتخاب کنید یا همه را انتقال دهید.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d مخاطب دستگاه</item>
+        <item quantity="one">%1$d مخاطب دستگاه</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">%1$d مخاطب دستگاه و سیم‌کارت</item>
+        <item quantity="one">%1$d مخاطب دستگاه و سیم‌کارت</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d مخاطب سیم‌کارت</item>
+        <item quantity="one">%1$d مخاطب سیم‌کارت</item>
+    </plurals>
+</resources>
