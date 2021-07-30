@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Author: Hemant Sachdeva <hemant.evolver@gmail.com>
+# Date Created: 30/07/2021
+
+input="overlays"
+while IFS= read -r line; do
+    cp "$line" "$HOME/apk/files"
+done <$input
+
+cd "$HOME/apk/files" || echo "No directory found"
+ls >list
+
+# Last Modified: 30/07/2021

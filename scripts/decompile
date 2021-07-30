@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Author: Hemant Sachdeva <hemant.evolver@gmail.com>
+# Date Created: 30/07/2021
+
+input="list"
+while IFS= read -r line; do
+    out=$(echo "$line" | cut -d '.' -f1)
+    ./apktool d --output "$out" "files/$line"
+done <$input
+
+# Last Modified: 30/07/2021
